@@ -1,0 +1,3868 @@
+[
+    {
+        "brand": "Abush",
+        "models": [
+            "CG 50 Plus",
+            "CGA 100i",
+            "CGA 125i",
+            "Speedy 100i",
+            "Speedy 110i",
+            "Speedy 125i"
+        ]
+    },
+    {
+        "brand": "Aeon",
+        "models": [
+            "Elite 250"
+        ]
+    },
+    {
+        "brand": "AJP",
+        "models": [
+            "PR3 125",
+            "PR4 Extreme",
+            "SPR 250"
+        ]
+    },
+    {
+        "brand": "Altai",
+        "models": [
+            "Carrier 110 Pro",
+            "Carrier 125",
+            "F1Max 50",
+            "F1Max Pro 50",
+            "F1Max Pro 125",
+            "F2Max 50 Plus",
+            "G Line Pro 125",
+            "Misk 50",
+            "Ristretto 125",
+            "Tank 50",
+            "Tank S50",
+            "Tank X125",
+            "Uma 50",
+            "XLine 125 Pro",
+            "XLine 50",
+            "XLine 50 Pro"
+        ]
+    },
+    {
+        "brand": "Apachi",
+        "models": []
+    },
+    {
+        "brand": "4V Cross",
+        "models": []
+    },
+    {
+        "brand": "Alfa 50",
+        "models": []
+    },
+    {
+        "brand": "Joy 125",
+        "models": []
+    },
+    {
+        "brand": "Myra",
+        "models": []
+    },
+    {
+        "brand": "Nova 125",
+        "models": []
+    },
+    {
+        "brand": "Pusat",
+        "models": []
+    },
+    {
+        "brand": "Beauty 125",
+        "models": []
+    },
+    {
+        "brand": "Beauty 50",
+        "models": []
+    },
+    {
+        "brand": "True 50",
+        "models": []
+    },
+    {
+        "brand": "True 125",
+        "models": []
+    },
+    {
+        "brand": "XRS",
+        "models": []
+    },
+    {
+        "brand": "XZ 250R",
+        "models": []
+    },
+    {
+        "brand": "",
+        "models": []
+    },
+    {
+        "brand": "Apec",
+        "models": []
+    },
+    {
+        "brand": "APX5",
+        "models": []
+    },
+    {
+        "brand": "PS3",
+        "models": []
+    },
+    {
+        "brand": "PS5",
+        "models": []
+    },
+    {
+        "brand": "",
+        "models": []
+    },
+    {
+        "brand": "Aprilia\u003C",
+        "models": []
+    },
+    {
+        "brand": "Area 51",
+        "models": []
+    },
+    {
+        "brand": "Atlantic 200",
+        "models": []
+    },
+    {
+        "brand": "Atlantic 250",
+        "models": []
+    },
+    {
+        "brand": "Atlantic 500 Sprint",
+        "models": []
+    },
+    {
+        "brand": "Caponord 1000 ETV",
+        "models": []
+    },
+    {
+        "brand": "Caponord 1000 ETV ABS",
+        "models": []
+    },
+    {
+        "brand": "Caponord 1200 ABS Travel Pack",
+        "models": []
+    },
+    {
+        "brand": "Caponord 1200 Rally",
+        "models": []
+    },
+    {
+        "brand": "Dorsoduro",
+        "models": []
+    },
+    {
+        "brand": "Leonardo 150",
+        "models": []
+    },
+    {
+        "brand": "Mana 850 GT ABS",
+        "models": []
+    },
+    {
+        "brand": "Pegaso 650",
+        "models": []
+    },
+    {
+        "brand": "RS 125",
+        "models": []
+    },
+    {
+        "brand": "RS4 125 4T",
+        "models": []
+    },
+    {
+        "brand": "RS 457",
+        "models": []
+    },
+    {
+        "brand": "RS 660",
+        "models": []
+    },
+    {
+        "brand": "RSV4 1100",
+        "models": []
+    },
+    {
+        "brand": "RSV4 Factory",
+        "models": []
+    },
+    {
+        "brand": "RSV4 RF",
+        "models": []
+    },
+    {
+        "brand": "RX 125",
+        "models": []
+    },
+    {
+        "brand": "Scarabeo 200",
+        "models": []
+    },
+    {
+        "brand": "Scarabeo 500",
+        "models": []
+    },
+    {
+        "brand": "Shiver 750",
+        "models": []
+    },
+    {
+        "brand": "Shiver 900",
+        "models": []
+    },
+    {
+        "brand": "SR 125",
+        "models": []
+    },
+    {
+        "brand": "SR 150",
+        "models": [
+            "SR GT 200"
+        ]
+    },
+    {
+        "brand": "SR Max 300 İ.E",
+        "models": []
+    },
+    {
+        "brand": "SRV 850 İ.E. ABS",
+        "models": []
+    },
+    {
+        "brand": "SX 125",
+        "models": []
+    },
+    {
+        "brand": "Tuareg",
+        "models": []
+    },
+    {
+        "brand": "Tuono 125",
+        "models": []
+    },
+    {
+        "brand": "Tuono 660",
+        "models": []
+    },
+    {
+        "brand": "Tuono 660 Factory",
+        "models": []
+    },
+    {
+        "brand": "Tuono V4 1100 Factory",
+        "models": []
+    },
+    {
+        "brand": "",
+        "models": []
+    },
+    {
+        "brand": "Argo",
+        "models": []
+    },
+    {
+        "brand": "Bajaj",
+        "models": []
+    },
+    {
+        "brand": "",
+        "models": []
+    },
+    {
+        "brand": "Ariic",
+        "models": []
+    },
+    {
+        "brand": "Chief 318",
+        "models": []
+    },
+    {
+        "brand": "",
+        "models": []
+    },
+    {
+        "brand": "Arora",
+        "models": []
+    },
+    {
+        "brand": "Alfa 110",
+        "models": []
+    },
+    {
+        "brand": "AR 06",
+        "models": []
+    },
+    {
+        "brand": "AR 06Z 250",
+        "models": []
+    },
+    {
+        "brand": "AR 50-10 Toros",
+        "models": []
+    },
+    {
+        "brand": "AR 50-11 Ares",
+        "models": []
+    },
+    {
+        "brand": "AR 50-20 Today",
+        "models": []
+    },
+    {
+        "brand": "AR 50-30",
+        "models": []
+    },
+    {
+        "brand": "AR 50-50 Kasırga",
+        "models": []
+    },
+    {
+        "brand": "AR 50-6 Capirossi",
+        "models": []
+    },
+    {
+        "brand": "AR 50-8 Espresso",
+        "models": []
+    },
+    {
+        "brand": "AR 50 Special",
+        "models": []
+    },
+    {
+        "brand": "Chinf 318",
+        "models": []
+    },
+    {
+        "brand": "AR 100-19 Elegant",
+        "models": []
+    },
+    {
+        "brand": "AR 100-62 Kartal",
+        "models": []
+    },
+    {
+        "brand": "AR 100-7",
+        "models": []
+    },
+    {
+        "brand": "AR 100-7 Special Alfa",
+        "models": []
+    },
+    {
+        "brand": "AR 100-8 A Modifiye",
+        "models": []
+    },
+    {
+        "brand": "AR 100-8 Klasik Çelik",
+        "models": []
+    },
+    {
+        "brand": "AR 100-8 Klasik Tel",
+        "models": []
+    },
+    {
+        "brand": "AR 100-8 Sport",
+        "models": []
+    },
+    {
+        "brand": "AR 100-B",
+        "models": []
+    },
+    {
+        "brand": "AR 100T 2A Special",
+        "models": []
+    },
+    {
+        "brand": "AR 100T-2B İnci",
+        "models": []
+    },
+    {
+        "brand": "AR 100T 6A",
+        "models": []
+    },
+    {
+        "brand": "AR 125-43 Yebere",
+        "models": []
+    },
+    {
+        "brand": "AR 125-48 Yebere",
+        "models": []
+    },
+    {
+        "brand": "AR 150-5 Kargo",
+        "models": []
+    },
+    {
+        "brand": "AR 150-A",
+        "models": []
+    },
+    {
+        "brand": "AR 150-A Jaguar",
+        "models": []
+    },
+    {
+        "brand": "AR 150-T",
+        "models": []
+    },
+    {
+        "brand": "AR 150 T8-H Joker",
+        "models": []
+    },
+    {
+        "brand": "AR 150T-N2 Nostalji",
+        "models": []
+    },
+    {
+        "brand": "AR 170-20 Elegant",
+        "models": []
+    },
+    {
+        "brand": "AR 180-16 C",
+        "models": []
+    },
+    {
+        "brand": "AR 180-31 Avantgarde",
+        "models": []
+    },
+    {
+        "brand": "AR 185-16 Fırtına",
+        "models": []
+    },
+    {
+        "brand": "AR 185-18 Modifiye",
+        "models": []
+    },
+    {
+        "brand": "AR 185-20 Fırtına",
+        "models": []
+    },
+    {
+        "brand": "AR 200-16C Jaguar",
+        "models": []
+    },
+    {
+        "brand": "AR 200 GY Cross",
+        "models": []
+    },
+    {
+        "brand": "AR 250 ZH",
+        "models": []
+    },
+    {
+        "brand": "AR 50 Cappuccino",
+        "models": []
+    },
+    {
+        "brand": "ARS 200",
+        "models": []
+    },
+    {
+        "brand": "Beatrix",
+        "models": []
+    },
+    {
+        "brand": "Boss 125",
+        "models": []
+    },
+    {
+        "brand": "Cappucino 125",
+        "models": []
+    },
+    {
+        "brand": "CG 50",
+        "models": []
+    },
+    {
+        "brand": "CP 250",
+        "models": []
+    },
+    {
+        "brand": "CR 250",
+        "models": []
+    },
+    {
+        "brand": "CRV 125",
+        "models": []
+    },
+    {
+        "brand": "Dazzle 125",
+        "models": []
+    },
+    {
+        "brand": "Dazzle 50",
+        "models": []
+    },
+    {
+        "brand": "Fırtına 50",
+        "models": []
+    },
+    {
+        "brand": "Freedom 125",
+        "models": []
+    },
+    {
+        "brand": "Freedom 50",
+        "models": []
+    },
+    {
+        "brand": "Gemma 125",
+        "models": []
+    },
+    {
+        "brand": "GP 250",
+        "models": []
+    },
+    {
+        "brand": "GS 525",
+        "models": []
+    },
+    {
+        "brand": "GT 125",
+        "models": []
+    },
+    {
+        "brand": "GT 250",
+        "models": []
+    },
+    {
+        "brand": "KS 200",
+        "models": []
+    },
+    {
+        "brand": "Max Jet",
+        "models": []
+    },
+    {
+        "brand": "Max Pro",
+        "models": []
+    },
+    {
+        "brand": "Max-T",
+        "models": []
+    },
+    {
+        "brand": "Max-T Easy",
+        "models": []
+    },
+    {
+        "brand": "Mojito 50",
+        "models": []
+    },
+    {
+        "brand": "Mojito Pro",
+        "models": []
+    },
+    {
+        "brand": "Mojito Pro S",
+        "models": []
+    },
+    {
+        "brand": "Mojito 125",
+        "models": []
+    },
+    {
+        "brand": "MT 125",
+        "models": []
+    },
+    {
+        "brand": "Safari 50",
+        "models": []
+    },
+    {
+        "brand": "Safari 125",
+        "models": []
+    },
+    {
+        "brand": "Safari Pro",
+        "models": []
+    },
+    {
+        "brand": "SK 250 K",
+        "models": []
+    },
+    {
+        "brand": "SK 250 KV",
+        "models": []
+    },
+    {
+        "brand": "Smart 50",
+        "models": []
+    },
+    {
+        "brand": "Smart 50 X",
+        "models": []
+    },
+    {
+        "brand": "Smart 100",
+        "models": []
+    },
+    {
+        "brand": "Special 125",
+        "models": []
+    },
+    {
+        "brand": "Quantum 50",
+        "models": []
+    },
+    {
+        "brand": "Quantum 125",
+        "models": []
+    },
+    {
+        "brand": "TDR 601 SZ",
+        "models": []
+    },
+    {
+        "brand": "Verano 50",
+        "models": []
+    },
+    {
+        "brand": "Verano AR 125-25",
+        "models": []
+    },
+    {
+        "brand": "Verano AR 50-9",
+        "models": []
+    },
+    {
+        "brand": "Vesta 50",
+        "models": []
+    },
+    {
+        "brand": "YM 150-A",
+        "models": []
+    },
+    {
+        "brand": "YM 150-T",
+        "models": []
+    },
+    {
+        "brand": "ZRX 200",
+        "models": []
+    },
+    {
+        "brand": "Diğer Modeller",
+        "models": []
+    },
+    {
+        "brand": "",
+        "models": []
+    },
+    {
+        "brand": "Asya",
+        "models": [
+            "Armada 250",
+            "AS 100-7 Turkcub",
+            "AS 100-7 Turkcub Lüks",
+            "AS 100-8",
+            "AS 110-8",
+            "AS 125",
+            "AS 125 T",
+            "AS 125 T 21",
+            "AS 150-12",
+            "AS 150 T",
+            "AS 150 T1",
+            "AS 150 T 19 A",
+            "AS 150 T 5A",
+            "AS 150 T 6A",
+            "AS 200 GY 2",
+            "Efsane Eco 100",
+            "Elegant 150",
+            "Ghost 350",
+            "Hero 125",
+            "Legent 150",
+            "Major 250",
+            "Nostalji 125",
+            "Pars 250",
+            "Polo 50",
+            "RX 250 Cross",
+            "RX 250 Supermoto",
+            "Scooturk-100",
+            "Shark 150",
+            "Swift 150",
+            "Ultra 150",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Bajaj",
+        "models": [
+            "Avenger Street 150",
+            "Boxer",
+            "Chetak",
+            "Discover 125 ST",
+            "Discover 150 F",
+            "Discover 150 S",
+            "Dominar 250 D",
+            "Dominar 400",
+            "Dominar 400 UG",
+            "Dominar D 400",
+            "Pulsar AS 150",
+            "Pulsar AS 200",
+            "Pulsar F 250",
+            "Pulsar N 160",
+            "Pulsar N 250",
+            "Pulsar NS 125",
+            "Pulsar NS 150",
+            "Pulsar NS 160",
+            "Pulsar NS 200",
+            "Pulsar NS 200 ABS",
+            "Pulsar NS 200 UG",
+            "Pulsar RS 200",
+            "Qute RE 60",
+            "V 15",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Baotian",
+        "models": [
+            "BT125T - 2"
+        ]
+    },
+    {
+        "brand": "Barossa",
+        "models": [
+            "ADV 125",
+            "GV 650",
+            "Jedi"
+        ]
+    },
+    {
+        "brand": "Belderia",
+        "models": [
+            "BD 100",
+            "BD 125",
+            "FC 150",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Benda Motor",
+        "models": [
+            "Chinchilla 500",
+            "Darkflag 500",
+            "LFC 700",
+            "Napoloen 500"
+        ]
+    },
+    {
+        "brand": "Benelli",
+        "models": [
+            "125-S",
+            "502-C",
+            "752 S",
+            "BN 125",
+            "BN 251",
+            "Leoncino",
+            "Leoncino 250",
+            "TNT 25",
+            "TNT 125",
+            "TNT 249-S",
+            "TNT 250",
+            "TNT 600",
+            "TRK 251",
+            "TRK 502",
+            "TRK 502X",
+            "TRK 702X",
+            "Zafferano",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Beta",
+        "models": [
+            "Alp 4.0",
+            "RR 250 2T Enduro Racing",
+            "RR 2T Enduro 250",
+            "RR 300 2T Enduro Racing",
+            "RR 4T 125 Enduro",
+            "Xtrainer"
+        ]
+    },
+    {
+        "brand": "",
+        "models": []
+    },
+    {
+        "brand": "Bianchi",
+        "models": [
+            "Falcon 125",
+            "Hunter 125",
+            "Mach-1 150",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Bisan",
+        "models": [
+            "Atlas 125",
+            "Ceylan",
+            "Motocup 100",
+            "NYSA 150",
+            "Pasific 125",
+            "Pasific 150",
+            "Rival",
+            "Roadstar 250",
+            "Roadstar Cub",
+            "Santana 125",
+            "Sardes 125",
+            "Senator 150",
+            "Shalter",
+            "Spx",
+            "Star",
+            "Sunway FKS 125",
+            "Teos 125",
+            "Terra 125",
+            "Toprak WRC 100",
+            "Toprak WRC 125",
+            "Tornado FKT 150",
+            "Troy 100",
+            "Yaren 125 T",
+            "Yaren BSX 125",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "BMW",
+        "models": [
+            "C 600 Sport",
+            "C 650 GT",
+            "C 650 Sport",
+            "C1",
+            "F 650",
+            "F 650 CS",
+            "F 650 GS",
+            "F 650 GS Dakar",
+            "F 650ST",
+            "F 700 GS",
+            "F 750 GS",
+            "F 800 GS",
+            "F 800 GS Adventure",
+            "F 800 GT",
+            "F 800 R",
+            "F 800 S",
+            "F 800 ST",
+            "F 850 GS",
+            "F 850 GS Adventure",
+            "F 900 GS",
+            "F 900 GS Adventure",
+            "F 900 R",
+            "F 900 XR",
+            "G 310 GS",
+            "G 310 R",
+            "G 650 GS",
+            "G 650 X Challenge",
+            "G 650 X Country",
+            "K 1100 LT",
+            "K 1200 GT",
+            "K 1200 LT",
+            "K 1200 R",
+            "K 1200 RS",
+            "K 1200 S",
+            "K 1300 GT",
+            "K 1300 R",
+            "K 1600 Bagger",
+            "K 1600 Grand America",
+            "K 1600 GT",
+            "K 1600 GTL",
+            "K 1600 GTL Exclusive",
+            "M 1000 R",
+            "M 1000 RR",
+            "R 12",
+            "R 18",
+            "R 60-6",
+            "R 65",
+            "R 80",
+            "R 80 GS",
+            "R 100 R",
+            "R 1100 GS",
+            "R 1100 R",
+            "R 1100 RS",
+            "R 1100 RT",
+            "R 1150 GS",
+            "R 1150 GS Adventure",
+            "R 1150 R",
+            "R 1150 RT",
+            "R 1200 C",
+            "R 1200 CL",
+            "R 1200 GS",
+            "R 1200 GS Adventure",
+            "R 1200 R",
+            "R 1200 RS",
+            "R 1200 RT",
+            "R 1200 ST",
+            "R 1250 GS",
+            "R 1250 GS Adventure",
+            "R 1250 RS",
+            "R 1250 RT",
+            "R 1300 GS",
+            "R 800 RT",
+            "R Nine T",
+            "R Nine T Blue Planet",
+            "R Nine T Pure",
+            "R Nine T Scrambler",
+            "R Nine T Urban G/S",
+            "S 1000 R",
+            "S 1000 RR",
+            "S 1000 RR HP Motosport",
+            "S 1000 RR Race",
+            "S 1000 XR",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Borelli Ledow",
+        "models": [
+            "CXM 250a"
+        ]
+    },
+    {
+        "brand": "Brixton",
+        "models": [
+            "BX 125",
+            "BX 125 R",
+            "BX 125 X",
+            "Cromwell 1200",
+            "Cromwell 125",
+            "Cromwell 250",
+            "Crossfire 125",
+            "Crossfire 125 XS",
+            "Crossfire 500",
+            "Crossfire 500 XC",
+            "Felsberg 125 X",
+            "Felsberg 250",
+            "Rayburn 125",
+            "Sunray 125",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "BSA",
+        "models": [
+            "Gold Star"
+        ]
+    },
+    {
+        "brand": "BuMoto/Jinling",
+        "models": [
+            "Boss 125CC",
+            "Calibre 250CC",
+            "Forewer GT 250",
+            "Gallardo F1 EFI MAXI",
+            "Lucatti 100CC",
+            "Nova 125CC",
+            "Regnum 250CC",
+            "Safir 100CC",
+            "Terra 100CC",
+            "Ventura F250CC"
+        ]
+    },
+    {
+        "brand": "Cagiva",
+        "models": [
+            "Mito 125"
+        ]
+    },
+    {
+        "brand": "Can-Am",
+        "models": [
+            "Ryker",
+            "Spyder"
+        ]
+    },
+    {
+        "brand": "Caza",
+        "models": [
+            "Minotauros"
+        ]
+    },
+    {
+        "brand": "CFmoto",
+        "models": [
+            "150NK",
+            "250CL-X",
+            "250NK",
+            "250SR",
+            "400NK",
+            "450CL-C",
+            "450MT",
+            "450NK",
+            "450SR",
+            "650MT",
+            "650NK",
+            "650TK",
+            "700CL-X ADV",
+            "700CL-X Heritage",
+            "700CL-X Sport",
+            "700MT",
+            "800MT Sport",
+            "800MT Touring",
+            "Jet Max",
+            "CF 150"
+        ]
+    },
+    {
+        "brand": "Cheeta",
+        "models": [
+            "150T-2",
+            "150T-3"
+        ]
+    },
+    {
+        "brand": "CSN Motor",
+        "models": [
+            "Arrebol 125",
+            "Dakar 150",
+            "Felicity 125",
+            "Kano 50",
+            "Pluton",
+            "Snake 125X",
+            "Sniper"
+        ]
+    },
+    {
+        "brand": "Çelik Motor",
+        "models": [
+            "CK100-3 Sport",
+            "Classic 125",
+            "Crown 150",
+            "Crown 250",
+            "Cup 110",
+            "Martian 150",
+            "Nostalji 50",
+            "Sports Age2 125-11",
+            "Tiger 150",
+            "Wind Hunter 150",
+            "XGJ 100-7",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Daelim",
+        "models": [
+            "Aroma 125",
+            "B-bone",
+            "Beagle",
+            "Daystar 250",
+            "Roadwin 250",
+            "S2 250",
+            "S3 Advance 250"
+        ]
+    },
+    {
+        "brand": "Dayun",
+        "models": [
+            "ATL 125",
+            "DY 125-36A",
+            "Toledo 110"
+        ]
+    },
+    {
+        "brand": "Derbi",
+        "models": [
+            "GP1 50",
+            "ETX",
+            "GP1 250",
+            "GPR 125 Naked",
+            "STX",
+            "Terra 125"
+        ]
+    },
+    {
+        "brand": "Dorado",
+        "models": [
+            "Akida Scooter 125",
+            "Akida Scooter 150",
+            "Arcon 150",
+            "Corvus",
+            "Daphne",
+            "Poseidon",
+            "Sandor 150"
+        ]
+    },
+    {
+        "brand": "Ducati",
+        "models": [
+            "848",
+            "848 Evo",
+            "999",
+            "1098",
+            "DesertX",
+            "Diavel",
+            "Diavel 1260",
+            "Diavel 1260 S",
+            "Diavel Carbon",
+            "Diavel Dark",
+            "Diavel Strada",
+            "Diavel V4",
+            "Diavel XDiavel S",
+            "Hypermotard 1100",
+            "Hypermotard 1100 Evo SP",
+            "Hypermotard 796",
+            "Hypermotard 821",
+            "Hyperstrada",
+            "Monster 620ie",
+            "Monster 695",
+            "Monster 696",
+            "Monster 796",
+            "Monster 821",
+            "Monster 900",
+            "Monster 1000 S",
+            "Monster 1200",
+            "Monster 1200 S",
+            "Monster 797 Plus",
+            "Monster 937",
+            "Monster 937 Plus",
+            "Multistrada 1200",
+            "Multistrada 1200 Enduro",
+            "Multistrada 1200 Pikes Peak",
+            "Multistrada 1200S",
+            "Multistrada 1260 Enduro",
+            "Multistrada 1260 S",
+            "Multistrada 950",
+            "Multistrada 950 S",
+            "Multistrada V2",
+            "Multistrada V2 S",
+            "Multistrada V4",
+            "Multistrada V4 Pikes Peak",
+            "Multistrada V4 Rally",
+            "Multistrada V4 RS",
+            "Multistrada V4 S",
+            "Multistrada V4 S Sport",
+            "Panigale 1199 S",
+            "Panigale 1299",
+            "Panigale 1299 S",
+            "Panigale 899",
+            "Panigale 959",
+            "Panigale R",
+            "Panigale V2",
+            "Panigale V4",
+            "Panigale V4 R",
+            "Panigale V4 S",
+            "Panigale V4 SP",
+            "S2R 800",
+            "Scrambler 1100 Pro",
+            "Scrambler 1100 Sport Pro",
+            "Scrambler Café Racer",
+            "Scrambler Classic",
+            "Scrambler Desert Sled",
+            "Scrambler Flat Track Pro",
+            "Scrambler Full Throttle",
+            "Scrambler Icon",
+            "Scrambler Icon Dark",
+            "Scrambler Icon Gen2",
+            "Scrambler NightShift",
+            "Scrambler Sixty2",
+            "Scrambler Urban Enduro",
+            "Streetfighter 848",
+            "Streetfighter V2",
+            "Streetfighter V4 S",
+            "SuperSport",
+            "SuperSport S"
+        ]
+    },
+    {
+        "brand": "Enbest",
+        "models": [
+            "A01",
+            "A01 Pro",
+            "A02"
+        ]
+    },
+    {
+        "brand": "Falcon",
+        "models": [
+            "Attack 50",
+            "Attack 100",
+            "Breeze 125",
+            "Cmax 155",
+            "Comfort 150",
+            "Comfort 180",
+            "Cooper 125 EFI",
+            "Cooper 50",
+            "Cooper 50 EFI",
+            "Crazy 125",
+            "Crown 150",
+            "Desert 277",
+            "Dolphin 100",
+            "Dolphin 100 EFI",
+            "Dolphin 125 EFI",
+            "Flash 100",
+            "FR-177",
+            "FR-250",
+            "Freedom 250",
+            "Freedom 277",
+            "Guppi 110",
+            "KMT 50 Magic",
+            "Leopar 222",
+            "Lion 150",
+            "Magic 50",
+            "Martini 125",
+            "Martini 50",
+            "Master 100 Lux",
+            "Magic 100",
+            "Master 50",
+            "Max 125i",
+            "Mexico 150",
+            "Mocco 125",
+            "Mocco 50",
+            "N 288",
+            "Nitro 50",
+            "Retro 110 I",
+            "Runner 125",
+            "Salvador 188",
+            "Shark 188",
+            "Sharp 170",
+            "Sharp 200",
+            "SK 125 KMT",
+            "Soft 50",
+            "Sport 100",
+            "Sport 100 Lux",
+            "Sport 150",
+            "Style 50",
+            "Techno 125 EFI",
+            "Techno 50",
+            "Techno 50 EFI",
+            "T-Rex 188",
+            "Wolf 180",
+            "Wonder 150",
+            "Wonder 180",
+            "Diğer"
+        ]
+    },
+    {
+        "brand": "Fantic",
+        "models": [
+            "Caballero Anniversary 500",
+            "Caballero Deluxe 500",
+            "Caballero Explorer 500",
+            "Caballero Rally 500",
+            "Caballero Scrambler 500",
+            "Caballero Track 500",
+            "XEF Rally"
+        ]
+    },
+    {
+        "brand": "FYM",
+        "models": [
+            "FY 100-10A",
+            "FY 125-19",
+            "FY 250"
+        ]
+    },
+    {
+        "brand": "Gas Gas",
+        "models": [
+            "EC 250",
+            "EC 250 F",
+            "EC 300",
+            "EC 350 F",
+            "EC Six Days 250cc",
+            "MC 450 F",
+            "MC 85",
+            "SM 700",
+            "TXT Pro 250"
+        ]
+    },
+    {
+        "brand": "Gilera",
+        "models": [
+            "Fuoco 500",
+            "GP 800",
+            "Nexus 250",
+            "Nexus 300",
+            "Nexus 500",
+            "Runner 180",
+            "Runner 200 ST",
+            "Runner VXR 200"
+        ]
+    },
+    {
+        "brand": "Harley-Davidson",
+        "models": [
+            "Breakout 117",
+            "CVO Road Glide",
+            "CVO Road Glide Custom",
+            "CVO Road King",
+            "CVO Ultra Limited",
+            "Dyna Fat Bob FXDF",
+            "Dyna Low Rider FXDLI",
+            "Dyna Street Bob",
+            "Dyna Street Bob FXDBA",
+            "Dyna Super Glide Custom FXDCI",
+            "Dyna Switchback",
+            "Dyna Wide Glide FXDWGI",
+            "Electra Glide Standard FLHTI",
+            "Fat Boy FLSTFI",
+            "FLHTK Electra Glide Ultra",
+            "FLHXSE2 CVO Street Glide",
+            "FLHX Street Glide",
+            "Freewheeler",
+            "Heritage Softail Classic FLSTCI",
+            "Heritage Springer FLSTS",
+            "Low Rider ST",
+            "Nightster 975",
+            "Pan America RA1250",
+            "Pan America RA1250 Special",
+            "Road Glide Special",
+            "Road Glide ST",
+            "Road Glide Ultra",
+            "Road King Classic FLHRCI",
+            "Road King FLHRI",
+            "Road King Special",
+            "Screamin Eagle V-Rod VRSCSE",
+            "Softail Blackline FXS",
+            "Softail Breakout FXSB",
+            "Softail Deluxe FLSTNI",
+            "Softail Fat Bob",
+            "Softail FXDR 114",
+            "Softail Low Rider",
+            "Softail Night Train FXSTBI",
+            "Softail Slim FLS",
+            "Softail Slim S",
+            "Softail Sport Glide",
+            "Softail Standard FXSTI",
+            "Softail Street Bob",
+            "Sportser S",
+            "Sportster 1200 Custom",
+            "Sportster 1200 Low",
+            "Sportster 1200 Nightster",
+            "Sportster 72",
+            "Sportster 883 Low",
+            "Sportster Custom XL1200C",
+            "Sportster Custom XL883C",
+            "Sportster Forty-Eight",
+            "Sportster Iron 883",
+            "Sportster Roadster XL1200R",
+            "Sportster SuperLow XL883L",
+            "Sportster XL 1200X",
+            "Sportster XL883",
+            "Sportster XR1200",
+            "Street 750",
+            "Street Glide ST",
+            "Street Rod",
+            "Street Rod VRSCR",
+            "SuperLow 1200T",
+            "Tri Glide Ultra FLHTCUTG",
+            "Ultra Classic Electra Glide FLHTCUI",
+            "Ultra Limited Low",
+            "VRSCD Night Rod",
+            "VRSCDX Night Rod Special",
+            "VRSC V-Rod",
+            "VRSC V-Rod Muscle",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Hero",
+        "models": [
+            "Dash 110i",
+            "Dash 125",
+            "Dash LX 110",
+            "Dash VX 110",
+            "Duet 110i",
+            "Duet 125",
+            "Duet LX 110",
+            "Duet VX 110",
+            "Glamour",
+            "Hunk",
+            "Hunk 200R",
+            "Ignitor 125",
+            "Karizma",
+            "Pleasure",
+            "Pleasure 110",
+            "Thriller",
+            "T-Sport",
+            "XPulse 200",
+            "XPulse 200 4V Pro",
+            "XPulse 200T",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Honda",
+        "models": [
+            "Activa 100",
+            "Activa 110",
+            "Activa 125",
+            "Activa S",
+            "ADV 350",
+            "Bali",
+            "Beat",
+            "C100 BIZ",
+            "C125 Super Cub",
+            "C70 Super Cub",
+            "C90 Super Cub",
+            "CB 125",
+            "CB 125 ACE",
+            "CB 125E",
+            "CB 125 F",
+            "CB 125 R",
+            "CB 250",
+            "CB 250 R",
+            "CB 500 F",
+            "CB 600 F Hornet",
+            "CB 650 F",
+            "CB 650 R",
+            "CB 750 Hornet",
+            "CB 900 Hornet",
+            "CB 1000 R",
+            "CBF 150",
+            "CBF 250",
+            "CBF 500",
+            "CBF 600",
+            "CBF 1000",
+            "CBR 125 R",
+            "CBR 250 R",
+            "CBR 500R",
+            "CBR 600 F",
+            "CBR 600 FA",
+            "CBR 600 F Sport",
+            "CBR 600 RR",
+            "CBR 650 F",
+            "CBR 650 FA",
+            "CBR 650 R",
+            "CBR 900 RR",
+            "CBR 929 RR",
+            "CBR 954 RR",
+            "CBR 1000 RR",
+            "CBR 1000 RR-R Fireblade SP",
+            "CBR 1000 RR SP",
+            "CBR 1100 XX",
+            "CBX 250 Twister",
+            "CBX 750",
+            "CBX 750 F",
+            "CG 125",
+            "CGL 125",
+            "CL 250",
+            "CMX 250 Rebel",
+            "CR 250",
+            "CRF 250 L",
+            "CRF 250 R",
+            "CRF 250 Rally",
+            "CRF 250 X",
+            "CRF 450 R",
+            "CRF1000L Africa Twin",
+            "CRF1000L Africa Twin Adventure Sports",
+            "CRF1000L Africa Twin Adventure Sports DCT",
+            "CRF1000L Africa Twin DCT",
+            "CRF1100L Africa Twin",
+            "CRF1100L Africa Twin Adventure Sports",
+            "CRF1100L Africa Twin Adventure Sports DCT",
+            "CRF1100L Africa Twin DCT",
+            "CTX 1300",
+            "Dio",
+            "DN - 01",
+            "Dylan 150",
+            "FES 250 Foresight",
+            "Fizy 125",
+            "FJS 400 Silverwing",
+            "FJS 600 Silverwing ABS",
+            "Forza 250",
+            "Forza 750",
+            "Goldwing F6B",
+            "Goldwing GL 1100",
+            "Goldwing GL 1500",
+            "Goldwing GL 1500 SE",
+            "Goldwing GL 1800",
+            "Goldwing GL 1800 DCT",
+            "HD 80",
+            "Hero 100",
+            "Innova 125",
+            "JF 26",
+            "Kinetic DX",
+            "Monkey 125",
+            "MSX 125",
+            "NC 700 DC Integra",
+            "NC 700 S",
+            "NC 700 X",
+            "NC 750D Integra",
+            "NC 750 S",
+            "NC 750 S DCT",
+            "NC 750 X",
+            "NC 750 X DCT",
+            "NSS300 Forza",
+            "NT 1100",
+            "NT 1100 DCT",
+            "NT 700 V Deauville ABS",
+            "NX 4 Falcon",
+            "NX 650 Dominator",
+            "PCX125",
+            "PCX150",
+            "PS 150i",
+            "SCV 100 F Beat",
+            "SH 100",
+            "SH 125",
+            "SH 150",
+            "SH 300",
+            "Shadow Spirit 750",
+            "Shadow SRX 90",
+            "Spacy 110",
+            "Spacy 110 Alpha",
+            "Spacy 125",
+            "ST 1100 Pan European",
+            "ST 1300 Pan European",
+            "Stream 125",
+            "SW T600",
+            "Today 50",
+            "Valkyrie F6C",
+            "Valkyrie Rune",
+            "VF 750 C Magna",
+            "VF 1000",
+            "VFR 800",
+            "VFR 800 X Crossrunner",
+            "VFR 1200 F",
+            "VFR 1200 X CrossTourer",
+            "VFR 1200 X CrossTourer DCT",
+            "VT 500",
+            "VT 600 Shadow",
+            "VT 750 C Shadow",
+            "VT 750 DC Black Widow",
+            "VT 750 Shadow ACE",
+            "VTR 250",
+            "VTX 1300 S",
+            "X-ADV",
+            "XL 185 S",
+            "XL 200",
+            "XL 600",
+            "XL 600 Transalp",
+            "XL 650 Transalp",
+            "XL 700 Transalp",
+            "XL 750 Transalp",
+            "XL 1000V Varadero",
+            "XLR 125",
+            "XR 650 R",
+            "XRV 750 Africa Twin",
+            "Wave",
+            "Wave 110",
+            "Wing-go",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Hsun",
+        "models": [
+            "HS150T-2",
+            "HS150T-3",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Husaberg",
+        "models": [
+            "650",
+            "TE 125",
+            "TE 250"
+        ]
+    },
+    {
+        "brand": "Husqvarna",
+        "models": [
+            "Enduro 701",
+            "FC 250",
+            "FC 350",
+            "FE 250",
+            "FE 350",
+            "FE 450",
+            "FS 450",
+            "Norden 901",
+            "Nuda 900",
+            "SM 610",
+            "Supermoto 701",
+            "Svartpilen 125",
+            "Svartpilen 250",
+            "Svartpilen 401",
+            "Svartpilen 801",
+            "Vitpilen 401",
+            "Vitpilen 701",
+            "TC 50",
+            "TC 85 19/16",
+            "TE 125",
+            "TE 250",
+            "TE 250i",
+            "TE 300",
+            "TE 300i",
+            "TE 610"
+        ]
+    },
+    {
+        "brand": "Hyosung",
+        "models": [
+            "GD 250 N",
+            "GD 250 R",
+            "GT 250 Naked",
+            "GT 250 P",
+            "GT 250 R",
+            "GT 650 Naked",
+            "GT 650 R",
+            "GV 250",
+            "GV 650",
+            "QH 250",
+            "RT 125",
+            "RX 125"
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "models": [
+            "Cityzen 125",
+            "Mover 125"
+        ]
+    },
+    {
+        "brand": "Indian",
+        "models": [
+            "Challenger",
+            "Chief Classic",
+            "Chief Dark Horse",
+            "Chieftain",
+            "FTR",
+            "Pursuit",
+            "Roadmaster",
+            "Scout",
+            "Scout Bobber"
+        ]
+    },
+    {
+        "brand": "Jawa",
+        "models": [
+            "125 Sport",
+            "250 Ceylan",
+            "250 Classic",
+            "250 Laser",
+            "300 CL",
+            "350 2T",
+            "350 OHC",
+            "350 Twin Sport",
+            "42 Bobber",
+            "650 Style",
+            "CZ 350",
+            "Perak",
+            "RVM 500 Adventure",
+            "RVM 500 Scrambler",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Kadırga",
+        "models": [
+            "ELIT-125",
+            "KD-125",
+            "KD-250GY"
+        ]
+    },
+    {
+        "brand": "Kanuni",
+        "models": [
+            "BD100",
+            "Bobcat 150",
+            "Bora 125",
+            "Breton 125",
+            "Breton S",
+            "Breton SL 125",
+            "BS 100",
+            "BS 125",
+            "Caracal 200",
+            "Cheetah 125",
+            "Classic 125",
+            "Cross 150",
+            "Cross 250",
+            "Cup 100",
+            "Cup 100 S",
+            "Deer 152",
+            "Elite 100",
+            "Enduro 200",
+            "FOX",
+            "Freedom 200",
+            "GT 170",
+            "GV 170",
+            "Hussar 125",
+            "Leopard",
+            "Mati 125",
+            "Merlin S",
+            "Moped Turbo Sport",
+            "Motorum 150",
+            "Nev 50",
+            "Phantom 180",
+            "Pony 50",
+            "Popcorn 90",
+            "Puma 150",
+            "Q100",
+            "Racer 200",
+            "Racer 200 S",
+            "Reha 250",
+            "Resa 125",
+            "Rokko 150",
+            "Ronny S",
+            "RS 125",
+            "Ruby 100",
+            "S125T",
+            "S170T",
+            "Seha 125",
+            "Seha 150",
+            "Seha 250",
+            "Seyhan 100c",
+            "Seyhan 125",
+            "Seyhan 150",
+            "Seyhan 250",
+            "Seyhan 251c",
+            "Speedy 125",
+            "Storm 150",
+            "Terry",
+            "Tiger 250",
+            "Tigrina 100",
+            "Tigrina 50",
+            "Trex 150",
+            "Trodon XS 50",
+            "Trodon XS 125",
+            "Turbo GXL",
+            "Visal 125",
+            "Wiki 125",
+            "Wiki 125i",
+            "Windy 125",
+            "WindyS 150 LX",
+            "Zebra 90",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Kawasaki",
+        "models": [
+            "EL 125",
+            "EL 250",
+            "EL 600 Eliminator",
+            "Eliminator 500",
+            "Eliminator 500 SE",
+            "EN 500",
+            "ER-5",
+            "ER-6 F",
+            "ER-6 N",
+            "GPZ 500",
+            "GPZ 900 R",
+            "GTR 1400",
+            "J 300",
+            "KLE 500",
+            "KLE 650 Versys",
+            "KLR 250",
+            "KLR 650",
+            "KLX 150 L",
+            "KLX 250",
+            "KLZ 1000 Versys",
+            "KMX 125",
+            "KX 125",
+            "KX 250",
+            "KX 250F",
+            "KX 450F",
+            "KX 65",
+            "KX 85",
+            "Ninja 250R",
+            "Ninja 250SL",
+            "Ninja 300",
+            "Ninja 400",
+            "Ninja 500",
+            "Ninja 500 SE",
+            "Ninja 650",
+            "Ninja 650 KRT Edition",
+            "Ninja 7 Hybrid",
+            "Ninja H2",
+            "Ninja H2 R",
+            "Ninja H2 SX",
+            "Ninja H2 SX SE",
+            "Ninja ZX-4R",
+            "Ninja ZX-4RR",
+            "Ninja ZX-4RR 40. Yıl",
+            "Ninja ZX-6R",
+            "Ninja ZX-6R 40. Yıl",
+            "Ninja 1000 SX",
+            "Ninja ZX-10R",
+            "Ninja ZX-10RR",
+            "Ninja ZX-14R",
+            "Versys 650",
+            "Versys 1000",
+            "Versys 1000 SE",
+            "Versys X300",
+            "VN 750 Vulcan",
+            "VN 800 Classic",
+            "VN 800 Drifter",
+            "VN 800 Sport",
+            "VN 800 Vulcan",
+            "VN 900",
+            "VN 900 Custom Special",
+            "VN 1500",
+            "VN 1500 Classic Tourer",
+            "VN 1500 Drifter",
+            "VN 1600",
+            "VN 1700 Classic Tourer",
+            "Vulcan S",
+            "W 800",
+            "Z 250SL",
+            "Z 300",
+            "Z 400",
+            "Z 500",
+            "Z 500 SE",
+            "Z 650",
+            "Z 650 RS",
+            "Z 750",
+            "Z 750 S",
+            "Z7 Hybrid",
+            "Z 800",
+            "Z 800 E",
+            "Z 900",
+            "Z 900 RS",
+            "Z 900 SE",
+            "Z 1000",
+            "Z 1000 R",
+            "Z 1000 SX",
+            "Z H2 SE",
+            "ZX-12 R",
+            "ZX-7 R",
+            "ZX-9 R",
+            "ZZR 600",
+            "ZZR 1100",
+            "ZZR 1400 ABS",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Kayo Moto",
+        "models": [
+            "KMB 60",
+            "KT250",
+            "KT250 2T",
+            "KT 50",
+            "TS190",
+            "TS90",
+            "TSD 110"
+        ]
+    },
+    {
+        "brand": "Keeway",
+        "models": [
+            "ARN 125",
+            "ARN 150",
+            "Focus 150",
+            "Hurricane",
+            "Land Cruiser 250",
+            "Outlook 150",
+            "Speed 150",
+            "Super Light 150",
+            "Super Shadow 250"
+        ]
+    },
+    {
+        "brand": "Kinetic",
+        "models": [
+            "Nova",
+            "Zoom",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Kinroad",
+        "models": [
+            "XT150",
+            "XT250"
+        ]
+    },
+    {
+        "brand": "Kove",
+        "models": [
+            "125 R",
+            "321 R",
+            "510 F",
+            "510 X",
+            "800 X"
+        ]
+    },
+    {
+        "brand": "Kral Motor",
+        "models": [
+            "Ares 125",
+            "Arneb 150",
+            "KR-100-16",
+            "KR-100-2",
+            "KR-100-2A",
+            "KR-100-7",
+            "KR-100-A",
+            "KR-125-7",
+            "KR-125-7D",
+            "KR-13",
+            "KR-130-16",
+            "KR-150-G",
+            "KR-200 Titus 196 CC",
+            "KR-211 Rana 50",
+            "KR-44 Loyal 50",
+            "KR-44 Pion 50",
+            "KR-50 Burn",
+            "KR-50 Capella",
+            "KR-54 Bien 150",
+            "Rana",
+            "Rigil 125",
+            "Spica 100",
+            "Spica 50",
+            "Vega 125",
+            "YB-100T-22",
+            "YB-150T-15"
+        ]
+    },
+    {
+        "brand": "KTM",
+        "models": [
+            "50 SX",
+            "65 SX",
+            "85 SX",
+            "125 Duke",
+            "125 EXC",
+            "125 RC",
+            "125 SX",
+            "150 EXC TPI",
+            "150 SX",
+            "200 Duke",
+            "200 Duke ABS",
+            "200 RC",
+            "250 Adventure",
+            "250 Duke ABS",
+            "250 EXC",
+            "250 EXC-F",
+            "250 EXC-F Six Days",
+            "250 EXC Six Days",
+            "250 EXC Six Days TPI",
+            "250 EXC TPI",
+            "250 Freeride R",
+            "250 RC ABS",
+            "250 SXF",
+            "300 EXC Six Days",
+            "300 EXC Six Days TPI",
+            "300 EXC TPI",
+            "350 EXC-F",
+            "350 EXC-F Six Days",
+            "350 SXF",
+            "390 Adventure",
+            "390 Adventure Spoke Wheel",
+            "390 Duke",
+            "390 RC",
+            "400 EXC",
+            "400 LC4 EGS - E",
+            "450 EXC",
+            "450 EXC-F Six Days",
+            "450 SXF",
+            "500 EXC",
+            "525 EXC",
+            "530 EXC",
+            "620 LC4",
+            "620 SC",
+            "640 Adventure",
+            "640 Duke II",
+            "640 LC4",
+            "690 Duke R",
+            "690 Enduro R",
+            "690 SM",
+            "690 SMC",
+            "690 SMC R",
+            "790 Adventure",
+            "790 Duke",
+            "890 Adventure",
+            "890 Adventure R",
+            "890 Duke",
+            "890 Duke R",
+            "890 SMT",
+            "950 Adventure",
+            "990 Adventure",
+            "990 Duke",
+            "990 Supermoto R",
+            "990 Supermoto T",
+            "1050 Adventure",
+            "1090 Adventure",
+            "1090 Adventure R",
+            "1190 Adventure",
+            "1190 Adventure R",
+            "1290 Super Adventure R",
+            "1290 Super Adventure S",
+            "1290 Super Adventure T",
+            "1290 Super Duke GT",
+            "1290 Super Duke R",
+            "1390 Super Duke R"
+        ]
+    },
+    {
+        "brand": "Kuba",
+        "models": [
+            "Ajax 150",
+            "Apricot 125",
+            "Arome 125 Pro",
+            "Bannry 125",
+            "Bevely 125",
+            "Bevely 50 Pro",
+            "Black Cat",
+            "Blueberry",
+            "Bluebird",
+            "Brilliant 125",
+            "Brilliant 125 Pro",
+            "Brilliant 50",
+            "Brilliant 50 Plus",
+            "Brilliant 50 Pro",
+            "Cargo",
+            "CG 100",
+            "CG 100/KM125-6",
+            "CG150",
+            "CG 50",
+            "CG 50 Pro New",
+            "CG 50 Pro Ultra",
+            "Chia 125",
+            "City Go",
+            "CR1",
+            "CR1-S",
+            "Cristal 50",
+            "Çita 100",
+            "Çita 100R",
+            "Çita 100R Gold",
+            "Çita 100R Max",
+            "Çita 100R Max Gold",
+            "Çita 125",
+            "Çita 125R Max",
+            "Çita 125R Max Gold",
+            "Çita 150R",
+            "Çita 150R Gold",
+            "Çita 170F",
+            "Çita 180-FC",
+            "Çita 180R",
+            "Çita 180R Gold",
+            "Çita 50R Gold",
+            "Dragon 50",
+            "Easy Pro 50",
+            "Ege 100",
+            "Ege 50",
+            "Faswind 200R",
+            "Fighter 50",
+            "Fighter 80",
+            "Filinta 100",
+            "Filinta 200",
+            "Gelli 125",
+            "Golf 100",
+            "Grace 50",
+            "GS 125",
+            "Hasat 100",
+            "Kargo 180",
+            "KB100-6",
+            "KB150-25",
+            "KB150-25 Max",
+            "KB150-9",
+            "KB150T-B",
+            "KEE 100",
+            "KH100",
+            "KH125-12D",
+            "KH150-12D",
+            "KM 100T-9",
+            "KM125-6",
+            "KR 139",
+            "Leopar 100",
+            "Matrix 125",
+            "Matrix 150",
+            "NewCity 125",
+            "Newton 50",
+            "Nirvana 150",
+            "Novax 200",
+            "Pars",
+            "Pesaro 125 X",
+            "Pesaro 50 X",
+            "Pikap 200",
+            "Pikap 200 Max",
+            "Platinum",
+            "Prince 50",
+            "Race 125",
+            "Rainbow",
+            "Ravan 139",
+            "Razore 100",
+            "Razore 150",
+            "Reiz 100",
+            "Reiz 50",
+            "Rocca 100",
+            "Rocca 100 Max",
+            "Rosewood",
+            "Rubano 150",
+            "Ruha 125",
+            "Runner 50",
+            "RX9 50",
+            "SJ100-16D",
+            "SJ50 Pro",
+            "SL150-9",
+            "Space 50",
+            "Space 50 Pro",
+            "STR 250",
+            "Strike 150",
+            "Superlight 125",
+            "Superlight 150",
+            "Superlight 200",
+            "Terra 125",
+            "TK 03",
+            "Trendy 50",
+            "Trendy XC 50",
+            "Twister 50",
+            "Valentino 50",
+            "VN50 Pro",
+            "X-Boss",
+            "XCG 100/150",
+            "XF 110",
+            "XF 139",
+            "XR 125",
+            "XY100-E",
+            "XY250-5A",
+            "Zenzero",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Kymco",
+        "models": [
+            "Agility 16+ 125i",
+            "Agility 16+ 150",
+            "Agility 50",
+            "Agility 125",
+            "Agility 150",
+            "Agility Carry 125i",
+            "Agility Carry 50i 4T",
+            "Agility City 125",
+            "Agility City 200 i",
+            "Agility Delivery 125i",
+            "Agility S 125",
+            "Ak 550",
+            "Activ 100",
+            "Aktiv 110",
+            "CK 125 Pulsar",
+            "CV3",
+            "Dink 200i",
+            "Dink R 150",
+            "Downtown 125i",
+            "Downtown 250i",
+            "Downtown 300i",
+            "Downtown 350i ABS",
+            "Downtown GT 350",
+            "DTX 250",
+            "DTX 360",
+            "Grand Dink 150",
+            "Grand Dink 250",
+            "Grand Dink 250i",
+            "KRV 200",
+            "Like 125",
+            "Like 50",
+            "Like S 50",
+            "Movie XL 125",
+            "Movie XL 150",
+            "People 125",
+            "People S 125i",
+            "People S 150i",
+            "People S 200",
+            "People S 200i",
+            "Sky Town 125",
+            "Super 8 125",
+            "Venox 250",
+            "Xciting 250i",
+            "Xciting 400i",
+            "Xciting 500",
+            "Xciting 500i R",
+            "Xciting S 400",
+            "Xciting VS 400",
+            "Xciting VS 400 Limited Edition",
+            "Xtown 125i",
+            "Xtown 250 CT",
+            "Xtown 250i",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Lambretta",
+        "models": [
+            "G350",
+            "Innocenti",
+            "V125 Special",
+            "V200 Special",
+            "V50 Special",
+            "X300"
+        ]
+    },
+    {
+        "brand": "Lifan",
+        "models": [
+            "Discovery 150",
+            "Dragon 125",
+            "Eagle 125",
+            "EM150L",
+            "Glint 100",
+            "KPR 200",
+            "LF100-A",
+            "LF100-C",
+            "LF125-5",
+            "LF125T-26",
+            "LF150-10B",
+            "LF150-9J",
+            "LF150T-9R",
+            "LF200GY-2",
+            "LF250-4",
+            "LF250-B",
+            "Lion 100",
+            "Lion 125",
+            "Pony 100",
+            "S-Ray 125",
+            "Tay 100",
+            "X-Plore 200M",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Malaguti",
+        "models": [
+            "Dune X 125 Black Edition",
+            "Mission 200 City",
+            "Spectre GP 125",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Megelli",
+        "models": [
+            "250 R",
+            "250 S"
+        ]
+    },
+    {
+        "brand": "Mobylette",
+        "models": [
+            "51 VK",
+            "52 VK",
+            "Av44",
+            "Bionik 51",
+            "Bionik 52",
+            "Classic 3500",
+            "Super 51",
+            "Super 52"
+        ]
+    },
+    {
+        "brand": "Mondial",
+        "models": [
+            "125 Lavinia Pro",
+            "Air Time",
+            "Fury 110i",
+            "Virago 50",
+            "50 BeeStreet",
+            "50 Eagle",
+            "50 Exon",
+            "50 HC",
+            "50 Loyal",
+            "50 Revival",
+            "50 SFC",
+            "50 TAB",
+            "50 TT",
+            "50 Turismo",
+            "50 UAG",
+            "50 Wing",
+            "50 ZNU",
+            "50 ZNU ec",
+            "100 Ardour",
+            "100 Hyena",
+            "100 Hyena X",
+            "100 KM",
+            "100 Loyal",
+            "100 Masti",
+            "100 Masti X",
+            "100 MFH",
+            "100 MFM",
+            "100 MG Prince",
+            "100 MG Sport",
+            "100 MG Superboy",
+            "100 NT Turkuaz",
+            "100 RT",
+            "100 SFC Automatic X",
+            "100 SFC Basic X",
+            "100 SFC Exclusive",
+            "100 SFC Snappy X",
+            "100 SFC Snappy Xi",
+            "100 SFS Sport",
+            "100 Superboy i",
+            "100 UAG",
+            "100 UGK",
+            "100 UKH",
+            "100 URT",
+            "110 FT",
+            "110 KF",
+            "125 Aggressive",
+            "125 AGK",
+            "125 Drift L",
+            "125 Drift L CBS",
+            "125 Elegante",
+            "125 Exon",
+            "125 KT",
+            "125 KV",
+            "125 Lavinia",
+            "125 Mash",
+            "125 MC Roadracer",
+            "125 MG Classic",
+            "125 MG Deluxe",
+            "125 MG Sport",
+            "125 MH",
+            "125 MH Drift",
+            "125 MT",
+            "125 MX Grumble",
+            "125 NT Turkuaz",
+            "125 Prostreet",
+            "125 Ressivo",
+            "125 Road Boy",
+            "125 RT",
+            "125 RT Akik",
+            "125 SFS",
+            "125 Skuty",
+            "125 Strada",
+            "125 Superboy i",
+            "125 UAG",
+            "125 UKT",
+            "125 URT",
+            "125 Vulture i",
+            "125 ZN",
+            "125 ZNU",
+            "125 ZNU i",
+            "135 UAG",
+            "150 Argent",
+            "150 Gomax",
+            "150 HS",
+            "150 KN",
+            "150 KT",
+            "150 Mash",
+            "150 Masti",
+            "150 MC",
+            "150 MCX Roadracer",
+            "150 MG King",
+            "150 MG Superboy X",
+            "150 MH Drift",
+            "150 MR",
+            "150 MR Vulture",
+            "150 RE",
+            "150 RF",
+            "150 RN",
+            "150 RR",
+            "150 Sentor",
+            "150 UT",
+            "150 ZAT",
+            "150 ZC",
+            "150 ZNX",
+            "150 Z-ONE",
+            "150 Z-ONE i",
+            "151 RS",
+            "175 Masti X",
+            "180 Z-ONE S",
+            "250 Buffalo",
+            "250i Buccaneer",
+            "250 Jet Max",
+            "250 MCT",
+            "250 MR Destro",
+            "250 Nevada",
+            "250 Ressivo",
+            "KD 125 F",
+            "KD 125 F CBS",
+            "Ritmica 100",
+            "Ritmica 110",
+            "RX1",
+            "RX1i Evo",
+            "RX3i Evo",
+            "Rx3i Evo-ABS",
+            "RX3-S Evo",
+            "Speedy 110",
+            "Vulture I-E",
+            "X-Treme Enduro",
+            "X-Treme Max",
+            "X-Treme Max 150",
+            "X-Treme Max 200",
+            "X-Treme Max 200i",
+            "X-Treme Moto Cross",
+            "X-Treme Super Moto",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Moto Guzzi",
+        "models": [
+            "Norge 1200",
+            "Stelvio",
+            "V100 Mandello",
+            "V100 Mandello S",
+            "V7 III",
+            "V7 Special",
+            "V7 Stone",
+            "V85 TT",
+            "V9 Bobber",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Moto Guzzi",
+        "models": [
+            "Norge 1200",
+            "Stelvio",
+            "V100 Mandello",
+            "V100 Mandello S",
+            "V7 III",
+            "V7 Special",
+            "V7 Stone",
+            "V85 TT",
+            "V9 Bobber",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Motolux",
+        "models": [
+            "Africa King",
+            "Africa Wolf",
+            "Americano 125",
+            "Cappadocia 125",
+            "CEO 110",
+            "CEO 125",
+            "Drift 200",
+            "Efsane 50",
+            "Efsane X",
+            "Macchiato 125",
+            "Macchiato 50",
+            "MCX 125",
+            "MTX 125",
+            "MW46",
+            "MZ46 A",
+            "MZ46 T",
+            "Nirvana 50",
+            "Nirvana Pro",
+            "Pitton 50",
+            "Ragner 250",
+            "Rossi 125",
+            "Rossi 50",
+            "Rossi Rs",
+            "Rossi RS 50",
+            "Rüzgar 50",
+            "Transit 125",
+            "Vegas 125",
+            "Vintage 50",
+            "W46",
+            "Wow 150",
+            "Diğer"
+        ]
+    },
+    {
+        "brand": "Motoran",
+        "models": [
+            "Allegro",
+            "Anaconda 150",
+            "CBS 150 Balancer",
+            "Comanche 125",
+            "Crazy 125",
+            "Cross XF-250",
+            "Cross XV-250",
+            "Dante 100",
+            "Dante 139",
+            "Elite",
+            "Etna",
+            "Fabio 150",
+            "Force 150",
+            "Furia",
+            "HJ 125",
+            "Maxima 150",
+            "Maximus 150",
+            "Moreno 100",
+            "MT 150",
+            "MTR 100",
+            "MTR 125",
+            "Ninety",
+            "Orca 100",
+            "Scorpion 100",
+            "Scorpion 170",
+            "Spada Anton 150",
+            "Sprint 125",
+            "Torro LX 100",
+            "Vento",
+            "Vento 100",
+            "Wind 125",
+            "Wino 80",
+            "ZS 100",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Musatti",
+        "models": [
+            "CG 50 Max",
+            "Dark Pow",
+            "Glamaro Max 125",
+            "Kai-Zen",
+            "Lemuzin 125",
+            "Milanio 250",
+            "Milano S400",
+            "Siena 110",
+            "X Pow"
+        ]
+    },
+    {
+        "brand": "Mutt",
+        "models": [
+            "Akita 125",
+            "Akita 250",
+            "FSR 250",
+            "GT SR 250",
+            "Hilts 250",
+            "Razorback 125",
+            "Razorback 250",
+            "RS13 250",
+            "Sabbath 125",
+            "Sabbath 250"
+        ]
+    },
+    {
+        "brand": "MV Agusta",
+        "models": [
+            "Brutale 800",
+            "Brutale 800 Rosso",
+            "Brutale 800 RR",
+            "Brutale 800 RR SCS",
+            "Brutale 920 R",
+            "Brutale 989 R",
+            "Brutale 990 R",
+            "Brutale 1000 RR",
+            "Brutale 1000 RS",
+            "Dragster 800 RC SCS",
+            "Dragster 800 Rosso",
+            "Dragster 800 RR",
+            "Dragster 800 RR SCS",
+            "F3 675",
+            "F3 800",
+            "F3 800 RC",
+            "F4R",
+            "F4RR",
+            "F4 1000 R",
+            "F4 1078",
+            "F5",
+            "Rivale",
+            "Stradale 800",
+            "Superveloce 800",
+            "Turismo Veloce 800 Lusso",
+            "Turismo Veloce 800 Lusso SCS",
+            "Turismo Veloce 800 Rosso",
+            "Turismo Veloce R",
+            "Turismo Veloce RC SCS"
+        ]
+    },
+    {
+        "brand": "MZ",
+        "models": [
+            "Baghira",
+            "ETZ 250",
+            "ETZ 251",
+            "ETZ 301",
+            "Fun 301",
+            "Sportstar 125",
+            "Sportstar 251",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Nanok",
+        "models": [
+            "Emira 50",
+            "Emira 125",
+            "Eva 125",
+            "Lia 50",
+            "Lia 125",
+            "Pacchetto 125",
+            "S Line 50"
+        ]
+    },
+    {
+        "brand": "Peugeot",
+        "models": [
+            "Belville 200i ABS",
+            "Citystar 200",
+            "Cobra 105",
+            "Django 125",
+            "Django 150",
+            "Django 50",
+            "Django Evo 125",
+            "Geopolis 250",
+            "Geopolis 300",
+            "Geopolis 400",
+            "Kisbee 50",
+            "LXR 200i",
+            "Metropolis 400",
+            "Ninja 103",
+            "PM-01 125",
+            "PM-02 250",
+            "Pulsion 125",
+            "Satelis 250",
+            "Satelis 400",
+            "Satelis 500",
+            "Speedfight 100",
+            "Speedfight 2",
+            "Speedfight 4",
+            "Trekker 100",
+            "Tweet 125",
+            "Tweet 151",
+            "Tweet 200",
+            "Vivacity 100",
+            "Vivacity 125",
+            "XP 400",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Piaggio",
+        "models": [
+            "Ape Calessino",
+            "Ape TM 703",
+            "Beverly 200",
+            "Beverly 250",
+            "Beverly 300 RST",
+            "Beverly 300 Tourer i.e.",
+            "Beverly 400",
+            "Beverly 500",
+            "Beverly S 400",
+            "Beverly Sport Touring 350 i.e.",
+            "Carnaby 200",
+            "ET4 150",
+            "FLY 100",
+            "FLY 125 3V",
+            "FLY 150",
+            "Liberty 150",
+            "Liberty 200",
+            "Medley 150",
+            "Medley S 150",
+            "MP3 250",
+            "MP3 300",
+            "MP3 400",
+            "MP3 500",
+            "MP3 530",
+            "MP3 530 Exclusive",
+            "NRG Power 50",
+            "Sfera 80",
+            "Skipper 150",
+            "Typhoon 125",
+            "Typhoon 50",
+            "Vespa 150",
+            "Vespa Cosa",
+            "X10 350",
+            "X7 250",
+            "X7 EVO 300",
+            "X8 200",
+            "X8 250 Premium",
+            "X9 250",
+            "X9 500",
+            "X Evo 250",
+            "X Evo 400",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "QJ",
+        "models": [
+            "ATR125",
+            "Fort 350",
+            "LTM 125",
+            "SRK125 R",
+            "SRK125 S",
+            "SRK400 RR",
+            "SRT550",
+            "SRT550 X",
+            "SRT800",
+            "SRT800 X",
+            "SRV550",
+            "SRV550 ST",
+            "SRV700",
+            "SVT650X",
+            "TRX12",
+            "VPS125"
+        ]
+    },
+    {
+        "brand": "Qooder",
+        "models": [
+            "Quadro 4D",
+            "QV3",
+            "QV4"
+        ]
+    },
+    {
+        "brand": "Ramzey",
+        "models": [
+            "100 Cup",
+            "Classic",
+            "Kalipso 100",
+            "Kalipso 125",
+            "Kalipso 150",
+            "Karaca 100",
+            "Prestige",
+            "QM 125 T",
+            "QM 125T-10D",
+            "QM 125T-10E",
+            "QM 200 GY",
+            "QM 250",
+            "RMZ 100-C",
+            "RMZ 125 T-22",
+            "RMZ 125 T-D",
+            "RMZ Cup 100",
+            "Sport 125",
+            "Star 125 L",
+            "Star 150 L",
+            "XF 125 10-V",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Regal Raptor",
+        "models": [
+            "Classic 125",
+            "Daytona 125",
+            "Daytona 250S",
+            "Daytona 250V",
+            "Daytona 350",
+            "Daytona 400",
+            "DD 100E",
+            "DD 125E",
+            "DD 125E-2A",
+            "DD 150E-2F",
+            "DD 250E-2A",
+            "DD 250E-9",
+            "DD 250E-9B",
+            "DD SPT 350",
+            "Max 125",
+            "Nac 250",
+            "Passion 150",
+            "Pilder 125",
+            "Pilder 250",
+            "Shark 250",
+            "Spyder 250",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Revolt",
+        "models": [
+            "RC3",
+            "RC5",
+            "RG3",
+            "RM5",
+            "RM5-X",
+            "RS1",
+            "RS3",
+            "RS5",
+            "RS7",
+            "RSX3",
+            "RT3",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Rewaco",
+        "models": [
+            "CT 1500 S",
+            "RF1 LT-3"
+        ]
+    },
+    {
+        "brand": "Rieju",
+        "models": [
+            "Aventura 125",
+            "Century 125",
+            "MR Pro 250",
+            "MR Racing 250",
+            "Tango 125"
+        ]
+    },
+    {
+        "brand": "RKS",
+        "models": [
+            "125R",
+            "125-S",
+            "A 250",
+            "Arome 125",
+            "Azure 50",
+            "Azure 50 Pro",
+            "Bevely 125",
+            "Bitter 125",
+            "Bitter 50",
+            "Bitter 50 Pro",
+            "Blackster 250i",
+            "BlackWolf 250",
+            "Blade 250",
+            "Blade 250 Pro",
+            "Blade 350",
+            "Blade 350 Pro",
+            "Blazer 50",
+            "Blazer 50 XR",
+            "Blazer 50 XR Max",
+            "Bolero 50",
+            "C1002 V",
+            "Cafe 152",
+            "Cityblade",
+            "Cruiser 250",
+            "Dark Blue 125",
+            "Dark Blue 50",
+            "DES 125",
+            "Easy Pro 50",
+            "Fort 250",
+            "Freccia 125",
+            "Freccia 150",
+            "Galaxy Gold 125",
+            "Grace 202",
+            "Grace 202 Pro",
+            "Jaguar 100",
+            "K-Light 202",
+            "K-Light 250",
+            "LTM 125",
+            "LTR 125",
+            "M250",
+            "M502N",
+            "Neon 125",
+            "Newlight",
+            "Newlight 125 Pro",
+            "Next 100",
+            "Next 50",
+            "NR200",
+            "Outlook 150",
+            "Pesaro 125",
+            "Pollo 50",
+            "Premium 125",
+            "Pride 125",
+            "Private 125",
+            "R250",
+            "Reale 125",
+            "Reale 125X",
+            "Rico",
+            "RK100-R",
+            "RK100-R Sport",
+            "RK125-R",
+            "RK125-S",
+            "RK150-S",
+            "RK200-R",
+            "RK250-S",
+            "RN 180",
+            "RNX",
+            "RNX Plus",
+            "Rocca 100 Max",
+            "Rodos 100",
+            "Rodos 50",
+            "Rosewood 50",
+            "RS 100",
+            "RS 400",
+            "RT250",
+            "RZ 125",
+            "RZ 125S",
+            "RZ 125X",
+            "RZ 150",
+            "RZ 250S",
+            "SC 150RE",
+            "Side Force",
+            "Siesta",
+            "Sniper 50",
+            "Sniper 50 Pro",
+            "Sniper 50 Pro X",
+            "Spontini 110/125",
+            "Spontini 125",
+            "SRK125-R",
+            "SRK400 RR",
+            "SRK550",
+            "SRK125-S",
+            "SRK250",
+            "SRK250 RR",
+            "SRK250 RS",
+            "SRK550 RS",
+            "SRT800SX",
+            "SRV125",
+            "SRV250 VS",
+            "SRV700",
+            "Sniper 100",
+            "Spontini 110",
+            "Stream 50",
+            "Titanic 150",
+            "Titanic 150-R",
+            "Titanic 150-S",
+            "Titanic 200",
+            "Titanium 200",
+            "Titanium 220",
+            "TNT 125 Pro",
+            "TNT 202",
+            "TRK502 X",
+            "TRV242",
+            "Velloce 150",
+            "Vieste 249",
+            "VPS 125",
+            "VPS 125 Pro",
+            "VRS 125",
+            "Wildcat 125",
+            "Winner 200",
+            "X Power 50",
+            "XVR250",
+            "Diğer"
+        ]
+    },
+    {
+        "brand": "RMG Moto Gusto",
+        "models": [
+            "Aston 125",
+            "Clasico",
+            "Crystal",
+            "Diva 50",
+            "Dream 150",
+            "Everest",
+            "Fantasy 125",
+            "Fantasy Pro 125",
+            "Fortuna",
+            "Milano 50",
+            "Monza 100",
+            "Panzer 125",
+            "Panzer Cross 125",
+            "Prego 125",
+            "R 100",
+            "Rapid 50",
+            "Rikko",
+            "RMG 50",
+            "Santa 125",
+            "Scorpion",
+            "Spark",
+            "Spark 50",
+            "Spyder 100",
+            "Star 100",
+            "Swing 50",
+            "Tornado",
+            "Velocity 50",
+            "Venice",
+            "Verona 50",
+            "Verona 125",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Royal Alloy",
+        "models": [
+            "GP 300",
+            "GT 125",
+            "Tigara Grande 125",
+            "Tigara Grande 300"
+        ]
+    },
+    {
+        "brand": "Royal Enfield",
+        "models": [
+            "Bullet 350",
+            "Classic 350",
+            "Classic 500",
+            "Continental GT",
+            "Himalayan",
+            "Hunter 350",
+            "Interceptor 650",
+            "Meteor 350",
+            "Scram 411",
+            "Shotgun 650",
+            "Super Meteor 650",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Rutec",
+        "models": [
+            "Badi 125",
+            "Cargo 125",
+            "Grace 50",
+            "Lucca 125",
+            "R9 125"
+        ]
+    },
+    {
+        "brand": "Salcano",
+        "models": [
+            "Altay 100",
+            "Altay 125",
+            "Astro 100",
+            "Astro 130",
+            "Attack",
+            "Cross 250",
+            "Hunter",
+            "Nova",
+            "Nova Max 125",
+            "Nova S",
+            "Panther X",
+            "Rockstar 125",
+            "SM 100 2H",
+            "SM 125-T25",
+            "SM 150-T10",
+            "SM 150-T4",
+            "SM 250-4",
+            "Spider",
+            "Spider 100",
+            "Tiger 100",
+            "Tiger 100 Sport",
+            "Tiger Speed 125",
+            "Vienna 125",
+            "Wind 150",
+            "Wings 125",
+            "Wolf",
+            "Wolf S",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Seger",
+        "models": [
+            "SG100-2",
+            "SG125",
+            "SG125-16",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "SFM",
+        "models": [
+            "Bundera 50",
+            "Konung 110",
+            "Redof 125",
+            "Ventin 50"
+        ]
+    },
+    {
+        "brand": "Sherco",
+        "models": [
+            "125 SM-RS Factory",
+            "250 SE Factory 2T",
+            "250 SEF Factory 4T",
+            "Enduro 250 Sef Factory",
+            "SEF300R Factory",
+            "Trial 250 ST"
+        ]
+    },
+    {
+        "brand": "Shinari",
+        "models": [
+            "Taipar 50",
+            "Taipar 100",
+            "Taipar 125",
+            "Taipar 150",
+            "Terra S 50"
+        ]
+    },
+    {
+        "brand": "Skygo",
+        "models": [
+            "SG 125",
+            "SG 200GY",
+            "SG 250-4",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Skyjet",
+        "models": [
+            "SJ-110 16-A",
+            "SJ-150-23/F5",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Skyteam",
+        "models": [
+            "Ace 125",
+            "ST200 TR-SM",
+            "Tracker 125",
+            "T-Rex 125",
+            "V-Raptor 250"
+        ]
+    },
+    {
+        "brand": "Spada",
+        "models": [
+            "Anton 150 / 200",
+            "Xfire 200 EFI",
+            "X-Ray 150 EFI"
+        ]
+    },
+    {
+        "brand": "Sukida",
+        "models": [
+            "Accurate 125",
+            "Commander 150"
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "models": [
+            "Address",
+            "Address 110",
+            "AN 125 HK",
+            "Avenis 125",
+            "Best 110",
+            "Burgman 200",
+            "Burgman Street 125EX",
+            "Burgman UH 150",
+            "Burgman UH 200",
+            "Burgman AN 400",
+            "Burgman AN 650 ABS",
+            "DR650",
+            "DR650 SE",
+            "DRZ400 S",
+            "DRZ400 SM",
+            "FB 100",
+            "Freewind XF650",
+            "GN 125",
+            "GN 250",
+            "GS 500",
+            "GSF 1200 Bandit S",
+            "GSF 600 Bandit S",
+            "GSF 650 Bandit S",
+            "GW 250F",
+            "GW250 Inazuma",
+            "GSR 600",
+            "GSR 750",
+            "GSX 8R",
+            "GSX 8S",
+            "GSX 1000 FA",
+            "GSX 600 F",
+            "GSX 650 F",
+            "GSX 750 F",
+            "GSX-R 125",
+            "GSX-R 250",
+            "GSX-R 600 Srad",
+            "GSX-R 750 Srad",
+            "GSX-R 1000",
+            "GSX-R 1000R",
+            "GSX-R 1300 Hayabusa",
+            "GSX-S 1000",
+            "GSX-S 1000 GT",
+            "GSX-S 1000 GX",
+            "GSX-S 125",
+            "GSX-S 750 ABS",
+            "GSX-S 950",
+            "Katana",
+            "Marauder 250",
+            "Marauder 800",
+            "LS 650 Savage",
+            "RM Z250",
+            "RM Z450",
+            "SV650A",
+            "TL 1000 S",
+            "TS 125",
+            "VanVan 125",
+            "VanVan 200",
+            "V-Strom 250",
+            "V-Strom 650 XT ABS",
+            "V-Strom 800 DE",
+            "V-Strom 800 SE",
+            "V-Strom DL1000",
+            "V-Strom DL650",
+            "V-Strom 1050",
+            "V-Strom 1050 DE",
+            "V-Strom 1050 XT",
+            "VL 250 Intruder",
+            "VL 600 Intruder",
+            "VL 800 Intruder",
+            "VL 800 Volusia",
+            "VL 1400 Intruder",
+            "VL 1500 Intruder",
+            "VS 800 Intruder",
+            "VZ 800 Intruder M800",
+            "VZR 1800 Intruder",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "SWM",
+        "models": [
+            "Gran Milano",
+            "Hoku 400",
+            "Six Days 500",
+            "Superdual T"
+        ]
+    },
+    {
+        "brand": "SYM",
+        "models": [
+            "ADX 125",
+            "Allo 125",
+            "Crox 125",
+            "Cruisym 250i",
+            "DRG 160",
+            "Fiddle II 125",
+            "Fiddle II 50",
+            "Fiddle III",
+            "Fiddle III 125",
+            "Fiddle III 200i",
+            "Fiddle IV 125",
+            "GTS 250",
+            "GTS 250i EVO",
+            "HD2 200i",
+            "HD2 200i EVO",
+            "HD Evo 125",
+            "HD Evo 200",
+            "Jet 14",
+            "Jet 14 200i",
+            "Jet 14 200i ABS",
+            "Jet 14 Evo 200 Plus",
+            "Jet 4 125",
+            "Jet Euro X",
+            "Jet X 125",
+            "Joymax 250i",
+            "Joymax 250i ABS",
+            "Joymax Z 250",
+            "Joymax Z Plus 250",
+            "Joyride 300",
+            "Joyride Evo 200",
+            "Joyride Evo 200i",
+            "Joyride S 200i ABS",
+            "Maxi 400i",
+            "Maxi 400i ABS",
+            "Maxsym 600i ABS",
+            "Maxsym TL 508",
+            "Mio 100",
+            "Mio 50",
+            "Mmbcu D53",
+            "NH T 200",
+            "NH T 200 E5",
+            "NH X 125",
+            "NH X 125 NFC",
+            "Orbit II 125",
+            "Orbit II 125i",
+            "Orbit II 50",
+            "Symnh T 125",
+            "Symnh X 125",
+            "Symphony SR 125",
+            "Symphony ST 125",
+            "Symphony ST 200i",
+            "Symphony ST 200i ABS",
+            "VS 150",
+            "Wolf SB 250 NI",
+            "Xpro 125",
+            "Xpro Cargo 125",
+            "Xpro II 125",
+            "XS 125K",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Taktas Motor",
+        "models": [
+            "Apollo 150",
+            "Athena 125",
+            "Venüs 50"
+        ]
+    },
+    {
+        "brand": "TGB",
+        "models": [
+            "Delivery Kargo",
+            "X-Motion 250 EFI"
+        ]
+    },
+    {
+        "brand": "TM Racing",
+        "models": [
+            "EN 250",
+            "EN 250 Fİ",
+            "EN 300"
+        ]
+    },
+    {
+        "brand": "Togo",
+        "models": [
+            "800G",
+            "800S",
+            "RR800",
+            "T800",
+            "VS550"
+        ]
+    },
+    {
+        "brand": "Triumph",
+        "models": [
+            "Bonneville Bobber",
+            "Bonneville Speed Master",
+            "Bonneville T100",
+            "Bonneville T120",
+            "Daytona 660",
+            "Daytona 675",
+            "Daytona 675 R",
+            "Rocket 3 GT",
+            "Rocket 3 R",
+            "Rocket 3 Touring",
+            "Scrambler",
+            "Scrambler 1200 XE",
+            "Scrambler 400 X",
+            "Speed 400",
+            "Speedmaster",
+            "Speed Triple",
+            "Speed Triple 1200 RR",
+            "Speed Triple 1200 RS",
+            "Speed Triple R",
+            "Speed Triple RS",
+            "Speed Twin",
+            "Street Cup",
+            "Street Scrambler",
+            "Street Triple",
+            "Street Triple R",
+            "Street Triple RS",
+            "Street Triple S",
+            "Street Twin",
+            "Thruxton 1200 R",
+            "Thruxton 900",
+            "Thruxton RS",
+            "Tiger",
+            "Tiger 1050",
+            "Tiger 1200 Alpine Edition",
+            "Tiger 1200 Desert Edition",
+            "Tiger 1200 GT Explorer",
+            "Tiger 1200 GT Pro",
+            "Tiger 1200 Rally Explorer",
+            "Tiger 1200 Rally Pro",
+            "Tiger 1200 XCA",
+            "Tiger 1200 XCX",
+            "Tiger 1200 XR",
+            "Tiger 1200 XRT",
+            "Tiger 1200 XRX",
+            "Tiger 800",
+            "Tiger 800 XC",
+            "Tiger 800 XCA",
+            "Tiger 800 XCX",
+            "Tiger 800 XR",
+            "Tiger 800 XRT",
+            "Tiger 800 XRX",
+            "Tiger 850 Sport",
+            "Tiger 900",
+            "Tiger 900 GT",
+            "Tiger 900 GT Low",
+            "Tiger 900 GT Pro",
+            "Tiger 900 Rally",
+            "Tiger 900 Rally Pro",
+            "Tiger Explorer 1200",
+            "Tiger Explorer XC",
+            "Tiger Explorer XCA",
+            "Tiger Sport 660",
+            "Trident 660",
+            "Trophy 1200",
+            "TT 600",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Truva",
+        "models": [
+            "TR 100 - A",
+            "TR 125 - 37",
+            "TR 150T - 4",
+            "TR 150T - 5",
+            "TR 250 - 4",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "TT",
+        "models": [
+            "Chopper",
+            "Custom",
+            "Hardcore",
+            "Newage"
+        ]
+    },
+    {
+        "brand": "TVS",
+        "models": [
+            "Apache RR310",
+            "Apache RTR 150",
+            "Apache RTR 180",
+            "Apache RTR 200",
+            "Jupiter",
+            "Jupiter 125",
+            "Neo X3i",
+            "Ntorq 125",
+            "Raider 125",
+            "Scooty Pep Plus",
+            "Scooty Zest 110",
+            "Wego",
+            "XL Super",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "UğurSam",
+        "models": [
+            "SM 42",
+            "SM 42 Pro"
+        ]
+    },
+    {
+        "brand": "UM",
+        "models": [
+            "Chill Classic",
+            "Chill Sport",
+            "Renegade Commando 125",
+            "Renegade Freedom 125",
+            "Renegade Freedom ABS 250"
+        ]
+    },
+    {
+        "brand": "Ural",
+        "models": [
+            "CT",
+            "Ranger 2WD"
+        ]
+    },
+    {
+        "brand": "Vespa",
+        "models": [
+            "946 125 i.e.",
+            "Cosa 200",
+            "ET 4",
+            "GT 200",
+            "GT 250",
+            "GTS 125",
+            "GTS 125 ABS",
+            "GTS 125 Super",
+            "GTS 125 Supersport",
+            "GTS 125 Supertech",
+            "GTS 150",
+            "GTS 150 ABS",
+            "GTS 250",
+            "GTS 300",
+            "GTS 300 Super",
+            "GTS 300 Super Sport",
+            "GTS 300 Super Sport S",
+            "GTS 300 Supertech",
+            "GTV 250 ie",
+            "GTV 300 ie",
+            "LX 50",
+            "LX 125",
+            "LX 125 3V i.e",
+            "LX 150",
+            "LX 150 3V i.e",
+            "LX 150 i.e",
+            "LXV 125",
+            "Primavera 50",
+            "Primavera 50 RED",
+            "Primavera 50 Touring",
+            "Primavera 125",
+            "Primavera 150",
+            "Primavera 150 S",
+            "Primavera 150 Touring",
+            "PX 150",
+            "PX 200",
+            "Sprint 50",
+            "Sprint 125",
+            "Sprint 150",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Victory",
+        "models": [
+            "Cross Country",
+            "Gunner",
+            "High-Ball",
+            "Vegas 8-Ball"
+        ]
+    },
+    {
+        "brand": "Vitello",
+        "models": [
+            "Heron 100",
+            "Heron 125",
+            "Leon 100",
+            "Life 80",
+            "Rover 100",
+            "Tiger 150",
+            "VT 100 Sport"
+        ]
+    },
+    {
+        "brand": "Voge",
+        "models": [
+            "125 R",
+            "250 GY",
+            "250 Rally",
+            "250 RR",
+            "300 DS",
+            "300 GY",
+            "300 R",
+            "300 Rally",
+            "500 AC",
+            "500 DS",
+            "500 DSX",
+            "500 R",
+            "525 ACX",
+            "525 DSX",
+            "525 R",
+            "525 RR",
+            "650 DSX",
+            "900 DSX",
+            "SR1",
+            "SR1 ADV",
+            "SR3",
+            "SR4 Maksi 350"
+        ]
+    },
+    {
+        "brand": "Volta",
+        "models": [
+            "Apec 125",
+            "Apec 49.4"
+        ]
+    },
+    {
+        "brand": "Wuxi",
+        "models": [
+            "Scoozy",
+            "WM 125"
+        ]
+    },
+    {
+        "brand": "Xgjao",
+        "models": [
+            "XGJ-150-23",
+            "XGJ-200-8"
+        ]
+    },
+    {
+        "brand": "Xintian",
+        "models": [
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Yamaha",
+        "models": [
+            "Aerox 100",
+            "Beluga 125",
+            "R7",
+            "BW's 100",
+            "BW's 125",
+            "Crypton",
+            "Cygnus L",
+            "Cygnus RS",
+            "Cygnus X",
+            "D'elight",
+            "DT 125",
+            "DT 125 R",
+            "Fazer 8",
+            "Fazer 8 ABS",
+            "FJR 1300",
+            "FZ 1",
+            "FZ1 Fazer",
+            "FZ6",
+            "FZ6 Fazer",
+            "FZ6 Fazer ABS",
+            "FZ6 Fazer S2",
+            "FZ6 Fazer S2 ABS",
+            "FZ8",
+            "FZ8 ABS",
+            "FZR 1000",
+            "FZR 250",
+            "FZR 600",
+            "FZS1000",
+            "FZS600",
+            "Galaxy",
+            "LB 70 Chappy",
+            "Majesty 250",
+            "Majesty 400",
+            "MT-01",
+            "MT-03",
+            "MT-07",
+            "MT-07 ABS",
+            "MT-07 Moto Cage",
+            "MT-09",
+            "MT-09 SP",
+            "MT-10",
+            "MT-10 SP",
+            "MT-125",
+            "MT-25",
+            "MT-25 ABS",
+            "Neos",
+            "Niken",
+            "Niken GT",
+            "NMax 125",
+            "NMax 155",
+            "Nouvo",
+            "PW 50",
+            "PW 80",
+            "R25 TR54 Edition",
+            "RayZR",
+            "Royal Star XVZ 1300",
+            "RX 115",
+            "RX 135",
+            "SCR950",
+            "SR 400",
+            "SR 500",
+            "TDM 850",
+            "TDM 900",
+            "Tenere 700",
+            "Tenere 700 Explore",
+            "Tenere 700 Extreme",
+            "Tenere 700 Rally Edition",
+            "Tenere 700 World Raid",
+            "Tmax 500",
+            "Tmax 530",
+            "Tmax 560",
+            "Tracer 7",
+            "Tracer 700",
+            "Tracer 9",
+            "Tracer 900",
+            "Tracer 900 GT",
+            "Tracer 9 GT",
+            "Tracer 9 GT+",
+            "Tricity 125",
+            "Tricity 155",
+            "Tricity 300",
+            "TTR 125 L",
+            "Vercity 300",
+            "Virago XV 1100",
+            "Virago XV 250",
+            "Virago XV 535",
+            "Vmax",
+            "Wild Star XV 1600",
+            "WR 125 R",
+            "WR 125 X",
+            "WR 250 F",
+            "WR 250 R",
+            "WR 450 F",
+            "X-City 250",
+            "Xenter 150",
+            "XJ 6",
+            "XJ 600 Diversion",
+            "XJ 600 N",
+            "XJ 6 Diversion F",
+            "X-Max 125 ABS",
+            "X-Max 125 Iron Max ABS",
+            "X-Max 250",
+            "X-Max 250 ABS",
+            "X-Max 250 Iron Max ABS",
+            "X-Max 250 MomoDesign",
+            "X-Max 250 Tech Max",
+            "X-Max 300 ABS",
+            "X-Max 300 Iron Max ABS",
+            "X-Max 300 Tech Max",
+            "X-Max 400",
+            "X-Max 400 ABS",
+            "X-Max 400 Iron Max",
+            "X-Max 400 Tech Max",
+            "XSR 125",
+            "XSR 700",
+            "XSR 900",
+            "XT 125 R",
+            "XT 350",
+            "XT 600 E",
+            "XT 660 R",
+            "XT 660 X",
+            "XT 1200Z Super Tenere",
+            "XTZ 660ZA Tenere",
+            "XTZ 660Z Tenere",
+            "XTZ 750 Super Tenere",
+            "XV950",
+            "XV950R",
+            "XVS 1100 Drag Star",
+            "XVS 1300 A",
+            "XVS 250 Drag Star",
+            "XVS 650 A",
+            "XVS 650 Drag Star",
+            "XVS 950 A",
+            "XVS 950 CU",
+            "YB 100",
+            "YBR 125",
+            "YBR 125 ESD",
+            "YBR 250",
+            "YP 250 R x max",
+            "YS 125",
+            "YZ 65",
+            "YZ 85",
+            "YZ 125",
+            "YZ 250",
+            "YZ 250 F",
+            "YZ 400 F",
+            "YZ 450 F",
+            "YZF 1000 Thunderace",
+            "YZF 600 R Thundercat",
+            "YZF R1",
+            "YZF R125",
+            "YZF R1M",
+            "YZF R25",
+            "YZF R25 ABS",
+            "YZF R3",
+            "YZF R6",
+            "YZF R6s",
+            "Zoom",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Yiben",
+        "models": [
+            "Palermo",
+            "YB50QT-21"
+        ]
+    },
+    {
+        "brand": "Yuan",
+        "models": [
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Yuki",
+        "models": [
+            "Active 125",
+            "Active 50",
+            "Adventure 150",
+            "Afşin 250",
+            "Attact 100",
+            "Bellini 125",
+            "Bellini 50",
+            "Benda Rock 250",
+            "C5 ZR250",
+            "Casper S 50",
+            "Crypto 125",
+            "Crypto 50",
+            "Defender Maxi ADV",
+            "Dirty Paws Offroad",
+            "Dirty Paws Z300",
+            "Drag 170",
+            "Drag 200",
+            "Duty 125",
+            "Enzo 50",
+            "Fifty 50",
+            "Forza 100",
+            "Forza 170",
+            "Funrider 125",
+            "Gelato 125",
+            "Gelato 150",
+            "Gentle 50",
+            "Gusto 50",
+            "Hammer 125",
+            "Hammer 50",
+            "Huracan TR250T",
+            "Imola 125",
+            "JJ50QT Picasso 50",
+            "LB150T-8",
+            "Legend 50",
+            "Lupo 125",
+            "Margherita 50",
+            "Mojito 125",
+            "Mojito 50",
+            "NT-250 Naked",
+            "Pickup 600",
+            "QM250T Maximum",
+            "QM50QT-6E Snoopy",
+            "Risotto 125",
+            "Risotto 50",
+            "Route 110",
+            "Scram 170",
+            "Solid 125",
+            "T11 Explorer",
+            "T9 Strom 125",
+            "Taro GP1",
+            "Taro GP2",
+            "TB100T3E Picasso 100",
+            "Tekken 125",
+            "TK50Q3 Picasso 50",
+            "TN150-3A Driver",
+            "TY125-Z Driver",
+            "Vampire 125",
+            "Xway 125",
+            "YB 100 Jumbo",
+            "YB 150 Jumbo",
+            "YB50QT-3 Casper",
+            "Yıldız 100",
+            "Yıldız 130",
+            "YK 100-2A Apollo",
+            "YK100-2H",
+            "YK100-5",
+            "YK-100-7A Gusto",
+            "YK100-7 Paşa",
+            "YK 100-B",
+            "YK-100M Modify",
+            "YK125-15",
+            "YK 125-7D Apollo",
+            "YK 125-7 Rex",
+            "YK125 Rex",
+            "YK 150-9 Goldfox",
+            "YK 150-9 Goldfox-S",
+            "YK150-G",
+            "YK 150-G Üstad",
+            "YK150T-20",
+            "YK-180M Modify",
+            "YK-22 Rüzgar",
+            "YK-24 Aydos",
+            "YK250",
+            "YK250-21 R-Samurai",
+            "YK250-4",
+            "YK250GY-7 İzci",
+            "YK- 250 ZH Ayder",
+            "YK-25 Midilli GAZ",
+            "ZN-100T-E5 Legend",
+            "ZN-150T-E5 Legend",
+            "ZY125-15A Scrambler",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Zealsun",
+        "models": [
+            "250 R",
+            "125 GY",
+            "ZS 125-2",
+            "ZS 125-6",
+            "ZS 125-9",
+            "ZS 150-19",
+            "ZS 150-55",
+            "ZS 200 GS",
+            "ZLS 50 Rex",
+            "Diğer Modeller"
+        ]
+    },
+    {
+        "brand": "Zongshen",
+        "models": [
+            "GY 125",
+            "LZX250",
+            "ZS 125",
+            "ZS 200"
+        ]
+    },
+    {
+        "brand": "Zontes",
+        "models": [
+            "125 M",
+            "155 G1",
+            "155 U1",
+            "200 C",
+            "250 T-E",
+            "310 R",
+            "310 T",
+            "310 X",
+            "350 D",
+            "350 E",
+            "350 GK",
+            "350 R",
+            "350 T1",
+            "350 T2",
+            "350 V",
+            "Phantom S250",
+            "ZT125T-M"
+        ]
+    },
+    {
+        "brand": "Zorro",
+        "models": [
+            "ZR 100-19 Elegant",
+            "ZR 100-8 A Sport",
+            "ZR 125-43 Yebere",
+            "ZR 125-48 Yebere",
+            "ZR 185-18"
+        ]
+    }
+]

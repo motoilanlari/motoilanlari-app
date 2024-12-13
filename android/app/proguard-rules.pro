@@ -8,3 +8,12 @@
 #   http://developer.android.com/guide/developing/tools/proguard.html
 
 # Add any project specific keep options here:
+# Firebase Auth için Proguard ayarları
+-keepattributes Signature
+-keepattributes *Annotation*
+-keep class com.google.firebase.** { *; }
+-dontwarn com.google.firebase.**
+
+# Phone Auth için gerekli
+-keep class com.google.android.gms.** { *; }
+-dontwarn com.google.android.gms.**

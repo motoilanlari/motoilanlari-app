@@ -99,3 +99,8 @@ amplifytools.xcconfig
 .amplify
 amplify_outputs*
 amplifyconfiguration*
+
+#Firebase Config
+.env
+
+./functions/node_modules

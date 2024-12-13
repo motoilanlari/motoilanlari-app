@@ -1,89 +1,209 @@
-import React from "react";
-import {View, Text, Image, Dimensions} from "react-native";
-import {Product} from "../models";
+import React, {useState} from 'react';
+import {Dimensions, Image, Modal, StyleSheet, Text, TouchableOpacity, View} from 'react-native';
+import {Product} from '../models';
 import {faTurkishLiraSign} from '@fortawesome/free-solid-svg-icons/faTurkishLiraSign';
 import {faTrash} from '@fortawesome/free-solid-svg-icons/faTrash';
-import {faLocationDot} from '@fortawesome/free-solid-svg-icons/faLocationDot';
-import {FontAwesomeIcon} from "@fortawesome/react-native-fontawesome";
-const {height, width} = Dimensions.get("window");
+import {FontAwesomeIcon} from '@fortawesome/react-native-fontawesome';
+import {useNavigation} from '@react-navigation/native';
+import Colors from '../../Constants/colors.ts';
+import firestore from "@react-native-firebase/firestore";
+import colors from "../../Constants/colors.ts";
+
+
+const {height, width} = Dimensions.get('window');
+
 type favoriteItemProps = {
     product: Product;
 };
 
 function Index({product}: favoriteItemProps) {
-    // console.log("The product is ",product)
-    return (
+    const navigation = useNavigation();
+    const [modalVisible, setModalVisible] = useState(false);
 
+    const handleDelete = async (adId) => {
+        try {
+            const adRef = firestore().collection('Ads').doc(adId);
+            console.log('Deleting ad with ID:', adId);
+
+            await adRef.update({
+                deletedAt: firestore.FieldValue.serverTimestamp()
+            });
+            console.log('Silme işlemi gerçekleştirildi');
+
+            setModalVisible(false);
+        } catch (error) {
+            console.error('Silme işlemi hatası:', error);
+        }
+    };
+    return (
         <View style={{
-            borderColor: '#EAEAEA',
-            borderWidth: 2,
+            display: 'flex',
+            flexDirection: 'row',
+            justifyContent: 'space-between',
+            alignItems: 'center',
+            alignContent: 'center',
+            backgroundColor: Colors.motoBoxBackgroundColor,
+            borderColor: Colors.motoBoxBackgroundColor,
+            borderWidth: 1,
             shadowColor: 'gray',
             shadowOpacity: 0.12,
-            padding: 14,
+            padding: 0,
             borderRadius: 10,
-            marginBottom: 18,
-            height: height * 0.18
+            marginBottom: 15,
+            height: height * 0.15,
         }}>
+            <TouchableOpacity
+                onPress={
+                    () => navigation.navigate('Profile', {
+                        screen: 'MyAdsDetailScreen',
+                        params: {
+                            product: product}
+                    })
+                }
+                style={{width: '85%'}}
+            >
+                {/* İlan Detayları */}
+                <View style={{
+                    flex: 1, // Alanın geri kalanını kaplar
+                    flexDirection: 'row', // İçerikte yan yana hizalama
 
-            <View style={{
-                flexDirection: "row",
-                alignItems: "center",
-                paddingBottom: 18,
-                borderBottomWidth: 1.2,
-                borderBottomColor: '#dcdee0'
-            }}>
-                <Image
-                    style={{width: width * 0.17, height: width * 0.17, borderRadius: 8,}}
-                    source={{uri: product.image}}
-                />
-                <View style={{width: "80%", marginLeft: 10}}>
-                    <View style={{flexDirection: "row", alignItems: "center"}}>
-                        <FontAwesomeIcon size={20} color={'black'} icon={faLocationDot}/>
-
-                        <Text>Ankara, Yenimahalle</Text>
-
-
+                    justifyContent: 'space-between',
+                    display: 'flex'
+                }}>
+                    {/*İmage Kısmı*/}
+                    <View style={{width: '43%'}}>
+                        <Image
+                            style={{
+                                width: '100%',
+                                height: '100%',
+                                borderTopLeftRadius: 10,
+                                borderBottomLeftRadius: 10,
+                            }}
+                            source={{uri: product.photoUrls[0]}}
+                        />
                     </View>
 
-                    <View
-                        style={{
-                            flexDirection: "row",
-                            justifyContent: "space-between",
-                            alignItems: "center",
-                        }}
-                    >
+                    {/*Yazı Kısmı*/}
+                    <View style={{width: '55%', paddingLeft: 5}}>
+                        <Text>{product.name}</Text>
 
-                        <View style={{flexDirection: "row", alignItems: "center"}}>
-                            {/* <FontAwesome name="turkish-lira" size={15} color="black" />*/}
+                        <Text style={{fontSize: 14, fontWeight: '500', color: Colors.motoText1}}>
+                            {product.title}
+                            {/*   {product.description.length > 50 ? `${product.description.substring(0, 50)}...` : product.description} */}
+                        </Text>
 
-                            <Text style={{fontWeight: "bold", fontSize: 24, marginLeft: 3}}>
-                                {product.price}
-                            </Text>
-                            <FontAwesomeIcon size={16} color={'black'} icon={faTurkishLiraSign}/>
+                        <Text style={{fontWeight: 'bold', fontSize: 24, color: Colors.motoText1}}>
+                            {parseFloat(product.price).toLocaleString('tr-TR')}
+                            <FontAwesomeIcon size={16} color={Colors.motoText1} icon={faTurkishLiraSign}/>
+                        </Text>
 
-
-                        </View>
-                        <FontAwesomeIcon size={30} color='#919191' icon={faTrash}/>
+                        <Text style={{fontSize: 14, fontWeight: '500', color: Colors.motoText1}}>
+                            {product.brand} &nbsp;
+                            {product.model}
+                            {/*   {product.description.length > 50 ? `${product.description.substring(0, 50)}...` : product.description} */}
+                        </Text>
                     </View>
-                    <Text style={{fontSize: 14, fontWeight: '500', color: '#646464'}}>{product.description}</Text>
                 </View>
-            </View>
+            </TouchableOpacity>
 
+            {/* Silme Butonu */}
+            <TouchableOpacity
+                onPress={() => setModalVisible(true)} // Modalı açıyoruz
+                style={styles.deleteButton}
+            >
+                <FontAwesomeIcon size={20} color={'white'} icon={faTrash}/>
+            </TouchableOpacity>
 
+            {/* Silme Onay Modali */}
+            <Modal
+                animationType="slide"
+                transparent={true}
+                visible={modalVisible}
+                onRequestClose={() => setModalVisible(false)} // Android geri tuşuyla modalı kapatma
+            >
+                <View style={styles.modalBackground}>
+                    <View style={styles.modalContainer}>
+                        <Text style={styles.modalText}>Silmek istediğinize emin misiniz?</Text>
+                        <View style={styles.modalButtons}>
+                            {/* Hayır Butonu */}
+                            <TouchableOpacity
+                                style={styles.noButton}
+                                onPress={() => setModalVisible(false)} // Modalı kapatıyoruz
+                            >
+                                <Text style={styles.buttonText}>Hayır</Text>
+                            </TouchableOpacity>
 
-            <View style={{
-                flexDirection: 'row',
-                justifyContent: 'space-between',
-                width: '74%',
-                marginHorizontal: '13%',
-                marginTop: 18,
-                alignItems: 'center'
-            }}>
-                {/*}  <Text style={{color: '#7A7A7A', fontWeight: 'bold', fontSize: 14}}>Paylaş</Text>
-                <Text style={{color: '#FF3E55', fontWeight: 'bold', fontSize: 14}}>Sohbet Et</Text>*/}
-            </View>
+                            {/* Evet Butonu */}
+                            <TouchableOpacity
+                                style={styles.yesButton}
+                                onPress={() => handleDelete(product.id)} // adId parametresini handleDelete fonksiyonuna gönderiyoruz
+                            >
+                                <Text style={styles.buttonText}>Evet</Text>
+                            </TouchableOpacity>
+                        </View>
+                    </View>
+                </View>
+            </Modal>
         </View>
     );
 }
 
 export default Index;
+const styles = StyleSheet.create({
+    container: {
+        flex: 1,
+        justifyContent: 'center',
+        alignItems: 'center',
+    },
+    deleteButton: {
+        backgroundColor: Colors.motored, // Buton arka plan rengi
+        borderTopRightRadius: 10,
+        borderBottomRightRadius: 10,
+        height: '100%',
+        width: '15%',
+        justifyContent: 'center', // Dikey ortalama
+        alignItems: 'center', // Yatay ortalama
+    },
+    modalBackground: {
+        flex: 1,
+        justifyContent: 'center',
+        alignItems: 'center',
+        backgroundColor: 'rgba(0, 0, 0, 0.5)', // Yarı saydam arka plan
+    },
+    modalContainer: {
+        width: '80%',
+        padding: 20,
+        backgroundColor: 'white',
+        borderRadius: 10,
+        alignItems: 'center',
+    },
+    modalText: {
+        fontSize: 16,
+        fontWeight: 'bold',
+        marginBottom: 20,
+        textAlign: 'center',
+    },
+    modalButtons: {
+        flexDirection: 'row',
+        justifyContent: 'space-between',
+        width: '100%',
+    },
+    noButton: {
+        backgroundColor: 'gray',
+        padding: 10,
+        borderRadius: 5,
+        width: '45%',
+        alignItems: 'center',
+    },
+    yesButton: {
+        backgroundColor: Colors.motored,
+        padding: 10,
+        borderRadius: 5,
+        width: '45%',
+        alignItems: 'center',
+    },
+    buttonText: {
+        color: 'white',
+        fontWeight: 'bold',
+    },
+});

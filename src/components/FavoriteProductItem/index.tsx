@@ -1,16 +1,17 @@
-import React from "react";
-import {View,TouchableOpacity,Text, Image} from "react-native";
-import {Product} from "../../models";
-import styles from "./styles.ts";
-import {useNavigation} from "@react-navigation/native";
+import React from 'react';
+import {Image, TouchableOpacity, View} from 'react-native';
+import {Product} from '../../models';
+import styles from './styles.ts';
+import {useNavigation} from '@react-navigation/native';
 
 type productProps = {
     product:Product
 }
 function index({product}:productProps){
-    const navigation =useNavigation();
+    const navigation = useNavigation();
 return(
-    <TouchableOpacity onPress={()=>navigation.navigate("ProductDetailsScreen",{product:product})} style={styles.favorite}>
+    <TouchableOpacity onPress={() => navigation.navigate('HomeDetailsScreen', {product: product})}
+                      style={styles.favorite}>
         <View style={styles.favoriteView}>
             <Image
             source={{uri:product.image}}
@@ -21,6 +22,6 @@ return(
         </View>
     </TouchableOpacity>
 
- )
+);
 }
 export default index;

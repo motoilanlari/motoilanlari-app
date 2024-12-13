@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "713519532496",
+    "firebase_url": "https://motoilanlari-f83d3-default-rtdb.firebaseio.com",
+    "project_id": "motoilanlari-f83d3",
+    "storage_bucket": "motoilanlari-f83d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713519532496:android:1565bdb71b00da7fe711d5",
+        "android_client_info": {
+          "package_name": "com.motoilanlari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713519532496-bl873dpbpjqcrkd710ll4t4070j4a5mi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.motoilanlari",
+            "certificate_hash": "64f2923945f5428ddbf3996e58cc58f482c9bec6"
+          }
+        },
+        {
+          "client_id": "713519532496-nmc6pct6tn5ck42ckcr7e7e9qfldeog2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.motoilanlari",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "713519532496-jermuanee2ab7s2sgk0vtbggl8vfaobq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAfyjS3Wglmp6fwZQkdU0lTiL7rr4_rJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713519532496-jermuanee2ab7s2sgk0vtbggl8vfaobq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "713519532496-lvoq6qim8k2f8njib3ngdn0ec10epbuh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.motoilanlari"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
